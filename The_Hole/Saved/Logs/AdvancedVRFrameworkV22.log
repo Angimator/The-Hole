@@ -4131,3 +4131,761 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.10-20.40.16:723][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2020.03.10-20.40.20:326][208]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
 [2020.03.10-20.40.21:626][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2020.03.10-20.41.11:893][624]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.03.10-20.41.11:930][624]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Solitary_Auto1DE84428B4EEF6D21988DAE8435A8C99B.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Maps/Solitary_Auto1.umap'
+[2020.03.10-20.41.11:935][624]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Solitary/Maps/Solitary' took 0.075
+[2020.03.10-20.41.11:935][624]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.075
+[2020.03.10-20.41.11:935][624]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Solitary/Audio/165395__shawnyboy__white-noise_Cue] ([1] browsable assets)...
+[2020.03.10-20.41.11:935][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/Solitary/Audio/165395__shawnyboy__white-noise_Cue]
+[2020.03.10-20.41.11:946][624]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/165395__shawnyboy__white-noise_C53325D2B4AA780D9E34E1BBE1C51981B.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Audio/165395__shawnyboy__white-noise_Cue_Auto1.uasset'
+[2020.03.10-20.41.11:947][624]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Solitary/Meshes/Final_Meshes/Clock/Clock_glass_Med_ClockMat] ([1] browsable assets)...
+[2020.03.10-20.41.11:956][624]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Solitary/Meshes/Final_Meshes/Clock/Clock_glass_Med_ClockMat.Clock_glass_Med_ClockMat]
+[2020.03.10-20.41.11:956][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/Solitary/Meshes/Final_Meshes/Clock/Clock_glass_Med_ClockMat]
+[2020.03.10-20.41.11:979][624]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Clock_glass_Med_ClockMat_Auto1A77DFE6544970CE28DADDBB1B5B0B95C.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Meshes/Final_Meshes/Clock/Clock_glass_Med_ClockMat_Auto1.uasset'
+[2020.03.10-20.41.11:980][624]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Solitary/Meshes/Final_Meshes/Clock/Med_Clock_Clock_baseMat] ([1] browsable assets)...
+[2020.03.10-20.41.11:989][624]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Solitary/Meshes/Final_Meshes/Clock/Med_Clock_Clock_baseMat.Med_Clock_Clock_baseMat]
+[2020.03.10-20.41.11:989][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/Solitary/Meshes/Final_Meshes/Clock/Med_Clock_Clock_baseMat]
+[2020.03.10-20.41.12:012][624]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Med_Clock_Clock_baseMat_Auto1708A517C4F2CC3D092654DBD468F9356.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Meshes/Final_Meshes/Clock/Med_Clock_Clock_baseMat_Auto1.uasset'
+[2020.03.10-20.41.12:013][624]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Solitary/Meshes/Final_Meshes/Clock/Med_Clock_Clock_minute_hand_low_HandsMat] ([1] browsable assets)...
+[2020.03.10-20.41.12:022][624]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Solitary/Meshes/Final_Meshes/Clock/Med_Clock_Clock_minute_hand_low_HandsMat.Med_Clock_Clock_minute_hand_low_HandsMat]
+[2020.03.10-20.41.12:023][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/Solitary/Meshes/Final_Meshes/Clock/Med_Clock_Clock_minute_hand_low_HandsMat]
+[2020.03.10-20.41.12:046][624]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Med_Clock_Clock_minute_hand_low_0F5D4B064D152A50DB50859B204ABD44.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Meshes/Final_Meshes/Clock/Med_Clock_Clock_minute_hand_low_HandsMat_Auto1.uasset'
+[2020.03.10-20.41.12:047][624]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Solitary/Meshes/Final_Meshes/Clock/Med_Clock_Hands_Clock_hour_hand_lowMat] ([1] browsable assets)...
+[2020.03.10-20.41.12:056][624]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Solitary/Meshes/Final_Meshes/Clock/Med_Clock_Hands_Clock_hour_hand_lowMat.Med_Clock_Hands_Clock_hour_hand_lowMat]
+[2020.03.10-20.41.12:056][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/Solitary/Meshes/Final_Meshes/Clock/Med_Clock_Hands_Clock_hour_hand_lowMat]
+[2020.03.10-20.41.12:081][624]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Med_Clock_Hands_Clock_hour_hand_653DD388458086341B10518EFDB7F467.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Meshes/Final_Meshes/Clock/Med_Clock_Hands_Clock_hour_hand_lowMat_Auto1.uasset'
+[2020.03.10-20.41.12:082][624]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Solitary/Meshes/Final_Meshes/Clock/Med_Clock_Hands_Clock_secondhand_lowMat] ([1] browsable assets)...
+[2020.03.10-20.41.12:090][624]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Solitary/Meshes/Final_Meshes/Clock/Med_Clock_Hands_Clock_secondhand_lowMat.Med_Clock_Hands_Clock_secondhand_lowMat]
+[2020.03.10-20.41.12:090][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/Solitary/Meshes/Final_Meshes/Clock/Med_Clock_Hands_Clock_secondhand_lowMat]
+[2020.03.10-20.41.12:115][624]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Med_Clock_Hands_Clock_secondhandFC1AD8A749D274746E21928DE06B47CC.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Meshes/Final_Meshes/Clock/Med_Clock_Hands_Clock_secondhand_lowMat_Auto1.uasset'
+[2020.03.10-20.41.12:116][624]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Solitary/Triggers/AudioTriggers] ([1] browsable assets)...
+[2020.03.10-20.41.12:116][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/Solitary/Triggers/AudioTriggers]
+[2020.03.10-20.41.12:145][624]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/AudioTriggers_Auto1F8D6A1854A557262ADB531BA2F82C9BE.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Triggers/AudioTriggers_Auto1.uasset'
+[2020.03.10-20.41.12:146][624]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Solitary/Meshes/Final_Meshes/Clock/M_Clock_med_Clock_glass_Med_Clock_Clock_glass_Med_ClockMat_563606B649E7B3EEDEB53EA0205E6D37] ([2] browsable assets)...
+[2020.03.10-20.41.12:155][624]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Solitary/Meshes/Final_Meshes/Clock/M_Clock_med_Clock_glass_Med_Clock_Clock_glass_Med_ClockMat_563606B649E7B3EEDEB53EA0205E6D37.M_M_Clock_med_Clock_glass_Med_Clock_Clock_glass_Med_ClockMat_563606B649E7B3EEDEB53EA0205E6D37]
+[2020.03.10-20.41.12:157][624]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Solitary/Meshes/Final_Meshes/Clock/M_Clock_med_Clock_glass_Med_Clock_Clock_glass_Med_ClockMat_563606B649E7B3EEDEB53EA0205E6D37.T_M_Clock_med_Clock_glass_Med_Clock_Clock_glass_Med_ClockMat_563606B649E7B3EEDEB53EA0205E6D37_BaseColor]
+[2020.03.10-20.41.12:157][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/Solitary/Meshes/Final_Meshes/Clock/M_Clock_med_Clock_glass_Med_Clock_Clock_glass_Med_ClockMat_563606B649E7B3EEDEB53EA0205E6D37]
+[2020.03.10-20.41.12:159][624]LogTexture: Display: Building textures: T_M_Clock_med_Clock_glass_Med_Clock_Clock_glass_Med_ClockMat_563606B649E7B3EEDEB53EA0205E6D37_BaseColor (DXT1, 128X128)
+[2020.03.10-20.41.12:175][624]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/M_Clock_med_Clock_glass_Med_Cloc20945C6F41BFA243566F359F38860D37.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Meshes/Final_Meshes/Clock/M_Clock_med_Clock_glass_Med_Clock_Clock_glass_Med_ClockMat_563606B649E7B3EEDEB53EA0205E6D37_Auto1.uasset'
+[2020.03.10-20.41.12:176][624]LogFileHelpers: Auto-saving content packages took 0.241
+[2020.03.10-20.43.36:848][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Clock_med_Med_Clock_Clock_base)
+[2020.03.10-20.43.41:706][498]Cmd: DELETE
+[2020.03.10-20.43.41:706][498]Cmd: ACTOR DELETE
+[2020.03.10-20.43.41:728][498]LogAIModule: Creating AISystem for world Map_Solitary_World
+[2020.03.10-20.43.41:737][498]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.10-20.43.41:737][498]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.10-20.43.41:738][498]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.10-20.43.41:738][498]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.10-20.43.41:739][498]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.10-20.43.41:766][498]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.03.10-20.43.41:769][498]LogEditorActor: Deleted 5 Actors (0.063 secs)
+[2020.03.10-20.43.49:819][329]LogActorFactory: Actor Factory created Clock_med_Med_Clock_Hands_Clock_secondhand_low
+[2020.03.10-20.43.49:820][329]LogActorFactory: Actor Factory created Clock_med_Clock_glass_Med_Clock
+[2020.03.10-20.43.49:820][329]LogActorFactory: Actor Factory created Clock_med_Med_Clock_Clock_base
+[2020.03.10-20.43.49:820][329]LogActorFactory: Actor Factory created Clock_med_Med_Clock_Clock_minute_hand_low_Hands
+[2020.03.10-20.43.49:821][329]LogActorFactory: Actor Factory created Clock_med_Med_Clock_Hands_Clock_hour_hand_low
+[2020.03.10-20.43.50:464][393]LogActorFactory: Actor Factory created Clock_med_Med_Clock_Hands_Clock_secondhand_low
+[2020.03.10-20.43.50:476][393]LogActorFactory: Actor Factory created Clock_med_Clock_glass_Med_Clock
+[2020.03.10-20.43.50:488][393]LogActorFactory: Actor Factory created Clock_med_Med_Clock_Clock_base
+[2020.03.10-20.43.50:501][393]LogActorFactory: Actor Factory created Clock_med_Med_Clock_Clock_minute_hand_low_Hands
+[2020.03.10-20.43.50:516][393]LogActorFactory: Actor Factory created Clock_med_Med_Clock_Hands_Clock_hour_hand_low
+[2020.03.10-20.44.00:321][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Clock_med_Clock_glass_Med_Clock)
+[2020.03.10-20.44.03:494][805]Cmd: DELETE
+[2020.03.10-20.44.03:494][805]Cmd: ACTOR DELETE
+[2020.03.10-20.44.03:496][805]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.10-20.44.03:523][805]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.03.10-20.44.03:525][805]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.03.10-20.44.05:217][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Clock_med_Med_Clock_Clock_base)
+[2020.03.10-20.44.06:615][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2020.03.10-20.44.10:223][598]Cmd: TRANSACTION UNDO
+[2020.03.10-20.44.10:223][598]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.10-20.44.12:869][879]Cmd: TRANSACTION UNDO
+[2020.03.10-20.44.12:869][879]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.10-20.44.13:277][928]Cmd: TRANSACTION UNDO
+[2020.03.10-20.44.13:277][928]LogEditorTransaction: Undo Delete Actors
+[2020.03.10-20.44.16:543][264]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Solitary/Meshes/Final_Meshes/Clock/Clock_med_Clock_glass_Med_Clock.Clock_med_Clock_glass_Med_Clock
+[2020.03.10-20.44.17:113][265]LogRenderer: Reallocating scene render targets to support 1236x776 Format 10 NumSamples 1 (Frame:1).
+[2020.03.10-20.44.25:495][ 59]LogSlate: Window 'Clock_med_Clock_glass_Med_Clock' being destroyed
+[2020.03.10-20.44.25:509][ 59]LogSlate: Window 'Clock_med_Clock_glass_Med_Clock' being destroyed
+[2020.03.10-20.44.25:520][ 59]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-20.44.25:521][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-20.44.28:547][391]Cmd: DELETE
+[2020.03.10-20.44.28:547][391]Cmd: ACTOR DELETE
+[2020.03.10-20.44.28:548][391]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.10-20.44.28:626][391]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.03.10-20.44.28:627][391]LogEditorActor: Deleted 1 Actors (0.081 secs)
+[2020.03.10-20.47.10:963][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Solitary/Maps/Solitary" FILE="C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Content/Solitary/Maps/Solitary.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.10-20.47.11:012][399]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.03.10-20.47.11:048][399]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Solitary964267414172C560BBF975B3954227A4.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Content/Solitary/Maps/Solitary.umap'
+[2020.03.10-20.47.11:093][399]AssetCheck: New page: Asset Save: Solitary
+[2020.03.10-20.47.11:093][399]LogContentValidation: Display: Validating World /Game/Solitary/Maps/Solitary.Solitary
+[2020.03.10-20.52.45:607][653]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Ultimate i5/Desktop/clock.fbx)
+[2020.03.10-20.52.45:631][653]LogFbx: Loading FBX Scene from C:/Users/Ultimate i5/Desktop/clock.fbx
+[2020.03.10-20.52.45:643][653]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.10-20.52.58:369][653]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.03.10-20.52.58:400][653]LogFbx: Valid bind pose for Pose (skinCluster5) - Clock_base
+[2020.03.10-20.52.58:564][653]LogMaterial: Display: Material /Game/Solitary/Meshes/Final_Meshes/Clock/lambert1.lambert1 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.03.10-20.52.58:570][653]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.03.10-20.52.58:599][653]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.03.10-20.52.58:621][653]LogFbx: Triangulating skeletal mesh Clock_base
+[2020.03.10-20.52.58:638][653]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 39
+[2020.03.10-20.52.58:638][653]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 35
+[2020.03.10-20.52.58:638][653]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 31
+[2020.03.10-20.52.58:638][653]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 27
+[2020.03.10-20.52.58:638][653]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 23
+[2020.03.10-20.52.58:638][653]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 19
+[2020.03.10-20.52.58:638][653]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2020.03.10-20.52.58:638][653]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 11
+[2020.03.10-20.52.58:638][653]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2020.03.10-20.52.58:638][653]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2020.03.10-20.52.58:638][653]LogFbx: Warning: Bones digested - 8  Depth of hierarchy - 4
+[2020.03.10-20.52.58:660][653]LogSkeletalMesh: Section 0: 427 vertices, 1 active bones
+[2020.03.10-20.52.58:660][653]LogSkeletalMesh: Section 0: Material=0, 493 triangles
+[2020.03.10-20.52.58:661][653]LogSkeletalMesh: Building Skeletal Mesh clock...
+[2020.03.10-20.52.58:669][653]LogSkeletalMesh: Section 0: 435 vertices, 1 active bones
+[2020.03.10-20.52.58:669][653]LogSkeletalMesh: Section 0: Material=0, 493 triangles
+[2020.03.10-20.52.58:671][653]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Solitary/Meshes/Final_Meshes/Clock/clock.clock
+[2020.03.10-20.52.58:671][653]LogLinker: Failed to load '/Game/Solitary/Meshes/Final_Meshes/Clock/clock_Skeleton': Can't find file.
+[2020.03.10-20.52.58:671][653]LogLinker: Failed to load '/Game/Solitary/Meshes/Final_Meshes/Clock/clock_Skeleton': Can't find file.
+[2020.03.10-20.52.58:675][653]LogLinker: Failed to load '/Game/Solitary/Meshes/Final_Meshes/Clock/clock_PhysicsAsset': Can't find file.
+[2020.03.10-20.52.58:675][653]LogLinker: Failed to load '/Game/Solitary/Meshes/Final_Meshes/Clock/clock_PhysicsAsset': Can't find file.
+[2020.03.10-20.52.58:681][653]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-20.52.58:681][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-20.52.58:687][653]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.03.10-20.52.58:687][653]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.03.10-20.52.58:687][653]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.03.10-20.52.58:688][653]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.03.10-20.52.58:688][653]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.03.10-20.52.58:688][653]FBXImport: Warning: The following bones are missing from the bind pose:
+handMinute_j  
+handMinuteTip_j  
+handSecond_j  
+handSecondTip_j  
+handHour_j  
+handHourTip_j  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2020.03.10-20.53.01:528][859]LogSlate: Window 'Message Log' being destroyed
+[2020.03.10-20.53.01:532][859]LogSlate: Window 'Message Log' being destroyed
+[2020.03.10-20.53.15:944][447]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (clock)
+[2020.03.10-20.53.16:383][498]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (clock)
+[2020.03.10-20.53.16:720][536]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (SkeletalMeshComponent0)
+[2020.03.10-20.53.17:076][576]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (SkeletalMeshComponent0)
+[2020.03.10-20.53.17:999][685]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (SkeletalMeshComponent0)
+[2020.03.10-20.53.18:789][778]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.10-20.53.21:132][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2020.03.10-20.53.25:306][333]LogAssetEditorSubsystem: Opening Asset editor for Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+[2020.03.10-20.53.25:310][333]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.03.10-20.53.25:324][333]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2020.03.10-20.53.25:324][333]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2020.03.10-20.53.25:324][333]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2020.03.10-20.53.25:324][333]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2020.03.10-20.53.25:324][333]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2020.03.10-20.53.25:324][333]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2020.03.10-20.53.25:324][333]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2020.03.10-20.53.25:324][333]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2020.03.10-20.53.25:324][333]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2020.03.10-20.53.25:324][333]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2020.03.10-20.53.25:324][333]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2020.03.10-20.53.25:394][333]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.03.10-20.53.25:415][333]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.03.10-20.53.25:428][333]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2020.03.10-20.53.25:445][333]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.03.10-20.53.25:900][343]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 14
+[2020.03.10-20.53.25:928][344]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2020.03.10-20.53.25:952][345]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 12
+[2020.03.10-20.53.26:059][351]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 11
+[2020.03.10-20.53.26:118][354]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 10
+[2020.03.10-20.53.26:118][354]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2020.03.10-20.53.26:140][355]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2020.03.10-20.53.26:140][355]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 7
+[2020.03.10-20.53.26:166][356]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.03.10-20.53.26:166][356]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2020.03.10-20.53.26:189][357]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2020.03.10-20.53.26:189][357]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2020.03.10-20.53.26:503][368]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2020.03.10-20.53.26:554][370]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2020.03.10-20.53.26:742][380]MaterialEditorStats: Base pass shader: 175 instructions
+[2020.03.10-20.53.26:742][380]MaterialEditorStats: Base pass shader with Surface Lightmap: 202 instructions
+[2020.03.10-20.53.26:742][380]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 249 instructions
+[2020.03.10-20.53.26:742][380]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2020.03.10-20.53.26:742][380]MaterialEditorStats: Texture samplers: 2/16
+[2020.03.10-20.53.30:787][654]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (clock)
+[2020.03.10-20.55.13:533][319]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.03.10-20.55.15:224][319]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.10-20.55.17:490][319]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Solitary/Meshes/Final_Meshes/Clock/clock.clock
+[2020.03.10-20.55.18:716][319]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.03.10-20.55.18:758][322]LogLinker: Warning: Failed to load '/Game/Solitary/Meshes/Final_Meshes/Clock/clock': Can't find file.
+[2020.03.10-20.55.18:758][322]LogLinker: Warning: Failed to load '/Game/Solitary/Meshes/Final_Meshes/Clock/clock': Can't find file.
+[2020.03.10-20.55.18:758][322]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Solitary/Meshes/Final_Meshes/Clock/clock.clock'
+[2020.03.10-20.55.21:180][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.03.10-20.55.22:404][501]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.10-20.55.22:496][501]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.03.10-20.55.23:683][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.03.10-20.55.24:479][596]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.10-20.55.24:576][596]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.03.10-20.55.25:980][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.03.10-20.55.26:860][710]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.10-20.55.26:956][710]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.03.10-20.55.35:185][909]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Ultimate i5/Desktop/clock.fbx)
+[2020.03.10-20.55.35:193][909]LogFbx: Loading FBX Scene from C:/Users/Ultimate i5/Desktop/clock.fbx
+[2020.03.10-20.55.35:202][909]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.10-20.55.42:999][909]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.03.10-20.55.43:016][909]LogFbx: Valid bind pose for Pose (skinCluster5) - Clock_minute_hand_low
+[2020.03.10-20.55.43:016][909]LogFbx: Valid bind pose for Pose (skinCluster7) - Clock_minute_hand_low
+[2020.03.10-20.55.43:016][909]LogFbx: Valid bind pose for Pose (skinCluster8) - Clock_minute_hand_low
+[2020.03.10-20.55.43:016][909]LogFbx: Valid bind pose for Pose (skinCluster9) - Clock_minute_hand_low
+[2020.03.10-20.55.43:018][909]LogMaterial: Display: Material /Game/Solitary/Meshes/Final_Meshes/Clock/lambert1.lambert1 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.03.10-20.55.43:022][909]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.03.10-20.55.43:046][909]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.03.10-20.55.43:067][909]LogFbx: Triangulating skeletal mesh Clock_minute_hand_low
+[2020.03.10-20.55.43:069][909]LogFbx: Triangulating skeletal mesh Clock_hour_hand_low
+[2020.03.10-20.55.43:070][909]LogFbx: Triangulating skeletal mesh Clock_secondhand_low
+[2020.03.10-20.55.43:077][909]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 39
+[2020.03.10-20.55.43:077][909]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 35
+[2020.03.10-20.55.43:077][909]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 31
+[2020.03.10-20.55.43:077][909]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 27
+[2020.03.10-20.55.43:077][909]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 23
+[2020.03.10-20.55.43:077][909]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 19
+[2020.03.10-20.55.43:077][909]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2020.03.10-20.55.43:077][909]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 11
+[2020.03.10-20.55.43:077][909]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2020.03.10-20.55.43:077][909]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2020.03.10-20.55.43:077][909]LogFbx: Triangulating skeletal mesh Clock_base
+[2020.03.10-20.55.43:092][909]LogFbx: Warning: Bones digested - 8  Depth of hierarchy - 4
+[2020.03.10-20.55.43:100][909]LogSkeletalMesh: Warning: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.03.10-20.55.43:111][909]LogSkeletalMesh: Section 0: 769 vertices, 8 active bones
+[2020.03.10-20.55.43:111][909]LogSkeletalMesh: Section 0: Material=0, 871 triangles
+[2020.03.10-20.55.43:112][909]LogSkeletalMesh: Building Skeletal Mesh clock...
+[2020.03.10-20.55.43:116][909]LogSkeletalMesh: Warning: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.03.10-20.55.43:127][909]LogSkeletalMesh: Section 0: 769 vertices, 8 active bones
+[2020.03.10-20.55.43:127][909]LogSkeletalMesh: Section 0: Material=0, 871 triangles
+[2020.03.10-20.55.43:129][909]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Solitary/Meshes/Final_Meshes/Clock/clock.clock
+[2020.03.10-20.55.43:135][909]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-20.55.43:136][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-20.55.43:145][909]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.03.10-20.55.43:145][909]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.03.10-20.55.43:145][909]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.03.10-20.55.43:145][909]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.03.10-20.55.43:145][909]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.03.10-20.55.49:638][493]LogSlate: Window 'Message Log' being destroyed
+[2020.03.10-20.55.49:643][493]LogSlate: Window 'Message Log' being destroyed
+[2020.03.10-20.56.01:864][558]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Solitary/Meshes/Final_Meshes/Clock/clock.clock
+[2020.03.10-20.56.01:873][558]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.03.10-20.56.01:878][558]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.10-20.56.01:882][558]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2020.03.10-20.56.01:907][558]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.10-20.56.04:128][674]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Solitary/Meshes/Final_Meshes/Clock/lambert1.lambert1
+[2020.03.10-20.56.04:132][674]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.03.10-20.56.04:201][674]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.03.10-20.56.04:218][674]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 27
+[2020.03.10-20.56.04:218][674]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 26
+[2020.03.10-20.56.04:218][674]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 25
+[2020.03.10-20.56.04:218][674]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 24
+[2020.03.10-20.56.04:218][674]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 23
+[2020.03.10-20.56.04:218][674]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 22
+[2020.03.10-20.56.04:218][674]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 21
+[2020.03.10-20.56.04:218][674]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 20
+[2020.03.10-20.56.04:218][674]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 19
+[2020.03.10-20.56.04:218][674]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 18
+[2020.03.10-20.56.04:218][674]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 17
+[2020.03.10-20.56.04:218][674]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 16
+[2020.03.10-20.56.04:222][674]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.03.10-20.56.04:250][674]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.03.10-20.56.04:650][683]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 31
+[2020.03.10-20.56.04:682][684]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 30
+[2020.03.10-20.56.04:704][685]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 29
+[2020.03.10-20.56.04:740][687]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 28
+[2020.03.10-20.56.04:813][691]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 27
+[2020.03.10-20.56.04:835][692]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 26
+[2020.03.10-20.56.04:861][693]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 25
+[2020.03.10-20.56.04:861][693]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 24
+[2020.03.10-20.56.04:861][693]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 23
+[2020.03.10-20.56.04:885][694]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 22
+[2020.03.10-20.56.04:885][694]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 21
+[2020.03.10-20.56.04:913][695]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 20
+[2020.03.10-20.56.05:087][702]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 19
+[2020.03.10-20.56.05:217][706]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 18
+[2020.03.10-20.56.05:261][708]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 17
+[2020.03.10-20.56.05:282][709]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 16
+[2020.03.10-20.56.05:303][710]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2020.03.10-20.56.05:346][712]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 14
+[2020.03.10-20.56.05:388][714]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2020.03.10-20.56.05:388][714]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 12
+[2020.03.10-20.56.05:413][715]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2020.03.10-20.56.05:437][716]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 10
+[2020.03.10-20.56.05:461][717]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 9
+[2020.03.10-20.56.05:483][718]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2020.03.10-20.56.05:563][722]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2020.03.10-20.56.05:563][722]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2020.03.10-20.56.05:670][724]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2020.03.10-20.56.05:670][724]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2020.03.10-20.56.05:691][724]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2020.03.10-20.56.05:718][724]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2020.03.10-20.56.05:744][724]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2020.03.10-20.56.06:630][725]MaterialEditorStats: Base pass shader: 174 instructions
+[2020.03.10-20.56.06:631][725]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 248 instructions
+[2020.03.10-20.56.06:631][725]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2020.03.10-20.56.06:631][725]MaterialEditorStats: Base pass vertex shader: 143 instructions
+[2020.03.10-20.56.06:631][725]MaterialEditorStats: Texture samplers: 2/16
+[2020.03.10-20.56.37:793][965]LogMaterial: Display: Material /Game/Solitary/Meshes/Final_Meshes/Clock/Clock_glass_Med_ClockMat.Clock_glass_Med_ClockMat needed to have new flag set bUsedWithSkeletalMesh !
+[2020.03.10-20.56.37:797][965]LogMaterial: Display: Missing cached shader map for material Clock_glass_Med_ClockMat, compiling. 
+[2020.03.10-20.56.37:839][966]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 39
+[2020.03.10-20.56.37:839][966]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 35
+[2020.03.10-20.56.37:839][966]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 31
+[2020.03.10-20.56.37:839][966]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 27
+[2020.03.10-20.56.37:839][966]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 23
+[2020.03.10-20.56.37:839][966]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 19
+[2020.03.10-20.56.37:839][966]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2020.03.10-20.56.37:839][966]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 11
+[2020.03.10-20.56.37:839][966]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2020.03.10-20.56.37:839][966]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2020.03.10-20.56.49:184][886]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Solitary/Meshes/Final_Meshes/Clock/Clock_glass_Med_ClockMat.Clock_glass_Med_ClockMat
+[2020.03.10-20.56.49:188][886]LogMaterial: Display: Missing cached shader map for material Clock_glass_Med_ClockMat, compiling. 
+[2020.03.10-20.56.49:256][886]LogMaterial: Display: Missing cached shader map for material Clock_glass_Med_ClockMat, compiling. 
+[2020.03.10-20.56.49:277][886]LogMaterial: Display: Missing cached shader map for material Clock_glass_Med_ClockMat, compiling. 
+[2020.03.10-20.56.49:300][886]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 27
+[2020.03.10-20.56.49:300][886]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 26
+[2020.03.10-20.56.49:300][886]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 25
+[2020.03.10-20.56.49:300][886]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 24
+[2020.03.10-20.56.49:300][886]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 23
+[2020.03.10-20.56.49:300][886]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 22
+[2020.03.10-20.56.49:300][886]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 21
+[2020.03.10-20.56.49:300][886]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 20
+[2020.03.10-20.56.49:300][886]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 19
+[2020.03.10-20.56.49:300][886]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 18
+[2020.03.10-20.56.49:300][886]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 17
+[2020.03.10-20.56.49:300][886]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 16
+[2020.03.10-20.56.49:306][886]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.10-20.56.49:744][898]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2020.03.10-20.56.49:773][899]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 18
+[2020.03.10-20.56.49:811][901]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 17
+[2020.03.10-20.56.49:856][903]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 16
+[2020.03.10-20.56.49:877][904]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2020.03.10-20.56.49:912][906]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 14
+[2020.03.10-20.56.49:969][909]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 13
+[2020.03.10-20.56.49:969][909]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2020.03.10-20.56.49:969][909]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 11
+[2020.03.10-20.56.49:969][909]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2020.03.10-20.56.50:013][911]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2020.03.10-20.56.50:013][911]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2020.03.10-20.56.50:120][916]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2020.03.10-20.56.50:210][916]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2020.03.10-20.56.50:235][916]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2020.03.10-20.56.50:246][916]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2020.03.10-20.56.50:258][916]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2020.03.10-20.56.50:287][916]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2020.03.10-20.56.50:302][916]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2020.03.10-20.56.51:104][917]MaterialEditorStats: Base pass shader: 175 instructions
+[2020.03.10-20.56.51:104][917]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 249 instructions
+[2020.03.10-20.56.51:104][917]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2020.03.10-20.56.51:104][917]MaterialEditorStats: Base pass vertex shader: 144 instructions
+[2020.03.10-20.56.51:104][917]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.10-20.56.51:104][917]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.10-20.56.51:104][917]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.10-20.57.05:472][ 95]LogTexture: Display: Building textures: Clock_low_3_Clock_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.03.10-20.57.05:472][ 95]LogTexture: Display: Building textures: Clock_low_3_Clock_Normal (BC5, 2048X2048)
+[2020.03.10-20.57.06:071][144]LogMaterial: Display: Missing cached shader map for material Clock_glass_Med_ClockMat, compiling. 
+[2020.03.10-20.57.06:092][144]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 27
+[2020.03.10-20.57.06:092][144]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 26
+[2020.03.10-20.57.06:092][144]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 25
+[2020.03.10-20.57.06:092][144]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 24
+[2020.03.10-20.57.06:092][144]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 23
+[2020.03.10-20.57.06:092][144]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 22
+[2020.03.10-20.57.06:092][144]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 21
+[2020.03.10-20.57.06:092][144]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 20
+[2020.03.10-20.57.06:092][144]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 19
+[2020.03.10-20.57.06:092][144]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 18
+[2020.03.10-20.57.06:092][144]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 17
+[2020.03.10-20.57.06:092][144]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 16
+[2020.03.10-20.57.06:092][144]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.10-20.57.06:110][144]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.10-20.57.06:119][144]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.10-20.57.06:135][144]LogMaterial: Display: Missing cached shader map for material Clock_glass_Med_ClockMat, compiling. 
+[2020.03.10-20.57.06:160][144]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.10-20.57.06:177][144]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.10-20.57.06:190][144]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.10-20.57.06:203][144]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.10-20.57.06:226][144]LogMaterial: Display: Missing cached shader map for material Clock_glass_Med_ClockMat, compiling. 
+[2020.03.10-20.57.06:258][144]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.03.10-20.57.06:281][144]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.10-20.57.06:297][144]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.10-20.57.06:313][144]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.10-20.57.06:328][144]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.03.10-20.57.06:511][148]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 43
+[2020.03.10-20.57.06:536][149]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 42
+[2020.03.10-20.57.06:573][151]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 41
+[2020.03.10-20.57.06:573][151]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 40
+[2020.03.10-20.57.06:634][153]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 39
+[2020.03.10-20.57.06:676][156]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 38
+[2020.03.10-20.57.06:698][157]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 37
+[2020.03.10-20.57.06:698][157]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 36
+[2020.03.10-20.57.06:719][158]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 35
+[2020.03.10-20.57.06:740][159]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 34
+[2020.03.10-20.57.06:740][159]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 33
+[2020.03.10-20.57.06:763][160]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 32
+[2020.03.10-20.57.06:969][167]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 31
+[2020.03.10-20.57.07:095][172]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 30
+[2020.03.10-20.57.07:132][174]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 29
+[2020.03.10-20.57.07:133][174]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 28
+[2020.03.10-20.57.07:149][175]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 27
+[2020.03.10-20.57.07:202][178]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 26
+[2020.03.10-20.57.07:202][178]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 25
+[2020.03.10-20.57.07:220][179]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 24
+[2020.03.10-20.57.07:257][181]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 23
+[2020.03.10-20.57.07:276][182]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 22
+[2020.03.10-20.57.07:298][183]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 21
+[2020.03.10-20.57.07:298][183]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 20
+[2020.03.10-20.57.07:415][188]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 19
+[2020.03.10-20.57.07:439][189]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 18
+[2020.03.10-20.57.07:528][193]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 17
+[2020.03.10-20.57.07:546][194]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 16
+[2020.03.10-20.57.07:546][194]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 15
+[2020.03.10-20.57.07:567][195]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 14
+[2020.03.10-20.57.07:567][195]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 13
+[2020.03.10-20.57.07:620][198]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2020.03.10-20.57.07:659][200]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 11
+[2020.03.10-20.57.07:702][202]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2020.03.10-20.57.07:745][204]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2020.03.10-20.57.07:791][206]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 8
+[2020.03.10-20.57.07:815][207]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2020.03.10-20.57.07:838][208]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2020.03.10-20.57.07:863][209]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2020.03.10-20.57.07:899][210]MaterialEditorStats: Base pass shader: 175 instructions
+[2020.03.10-20.57.07:899][210]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 249 instructions
+[2020.03.10-20.57.07:899][210]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2020.03.10-20.57.07:899][210]MaterialEditorStats: Base pass vertex shader: 144 instructions
+[2020.03.10-20.57.07:899][210]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.10-20.57.07:899][210]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.10-20.57.07:899][210]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.10-20.57.07:967][213]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2020.03.10-20.57.07:990][214]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2020.03.10-20.57.08:018][215]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2020.03.10-20.57.08:018][215]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2020.03.10-20.57.09:098][311]LogMaterial: Display: Missing cached shader map for material Clock_glass_Med_ClockMat, compiling. 
+[2020.03.10-20.57.09:139][312]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 27
+[2020.03.10-20.57.09:139][312]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 26
+[2020.03.10-20.57.09:139][312]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 25
+[2020.03.10-20.57.09:139][312]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 24
+[2020.03.10-20.57.09:139][312]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 23
+[2020.03.10-20.57.09:139][312]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 22
+[2020.03.10-20.57.09:139][312]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 21
+[2020.03.10-20.57.09:139][312]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 20
+[2020.03.10-20.57.09:139][312]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 19
+[2020.03.10-20.57.09:139][312]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 18
+[2020.03.10-20.57.09:139][312]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 17
+[2020.03.10-20.57.09:139][312]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 16
+[2020.03.10-20.57.09:530][330]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 15
+[2020.03.10-20.57.09:581][332]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 14
+[2020.03.10-20.57.09:619][334]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 13
+[2020.03.10-20.57.09:635][335]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 12
+[2020.03.10-20.57.09:696][338]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 11
+[2020.03.10-20.57.09:739][340]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2020.03.10-20.57.09:739][340]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 9
+[2020.03.10-20.57.09:760][341]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2020.03.10-20.57.09:788][342]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2020.03.10-20.57.09:788][342]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.03.10-20.57.09:809][343]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2020.03.10-20.57.09:809][343]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2020.03.10-20.57.09:935][349]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2020.03.10-20.57.09:967][350]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2020.03.10-20.57.10:045][353]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2020.03.10-20.57.10:321][370]MaterialEditorStats: Base pass shader: 172 instructions
+[2020.03.10-20.57.10:321][370]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 246 instructions
+[2020.03.10-20.57.10:321][370]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2020.03.10-20.57.10:321][370]MaterialEditorStats: Base pass vertex shader: 143 instructions
+[2020.03.10-20.57.10:321][370]MaterialEditorStats: Texture samplers: 2/16
+[2020.03.10-20.57.12:224][562]LogMaterial: Display: Missing cached shader map for material Clock_glass_Med_ClockMat, compiling. 
+[2020.03.10-20.57.12:246][562]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 27
+[2020.03.10-20.57.12:246][562]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 26
+[2020.03.10-20.57.12:246][562]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 25
+[2020.03.10-20.57.12:246][562]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 24
+[2020.03.10-20.57.12:247][562]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 23
+[2020.03.10-20.57.12:247][562]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 22
+[2020.03.10-20.57.12:247][562]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 21
+[2020.03.10-20.57.12:247][562]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 20
+[2020.03.10-20.57.12:247][562]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 19
+[2020.03.10-20.57.12:247][562]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 18
+[2020.03.10-20.57.12:247][562]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 17
+[2020.03.10-20.57.12:247][562]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 16
+[2020.03.10-20.57.12:251][562]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.03.10-20.57.12:688][578]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 19
+[2020.03.10-20.57.12:719][579]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 18
+[2020.03.10-20.57.12:743][580]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 17
+[2020.03.10-20.57.12:767][581]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2020.03.10-20.57.12:829][584]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2020.03.10-20.57.12:868][586]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 14
+[2020.03.10-20.57.12:868][586]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 13
+[2020.03.10-20.57.12:888][587]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2020.03.10-20.57.12:888][587]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2020.03.10-20.57.12:911][588]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2020.03.10-20.57.12:932][589]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2020.03.10-20.57.12:957][590]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2020.03.10-20.57.13:055][594]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2020.03.10-20.57.13:166][598]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 6
+[2020.03.10-20.57.13:166][598]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2020.03.10-20.57.13:193][599]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2020.03.10-20.57.13:193][599]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2020.03.10-20.57.13:211][600]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2020.03.10-20.57.13:267][603]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2020.03.10-20.57.13:550][618]MaterialEditorStats: Base pass shader: 178 instructions
+[2020.03.10-20.57.13:550][618]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 252 instructions
+[2020.03.10-20.57.13:550][618]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2020.03.10-20.57.13:550][618]MaterialEditorStats: Base pass vertex shader: 144 instructions
+[2020.03.10-20.57.13:550][618]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.10-20.57.13:550][618]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.10-20.57.13:550][618]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.10-20.57.15:689][838]LogMaterial: Display: Missing cached shader map for material Clock_glass_Med_ClockMat, compiling. 
+[2020.03.10-20.57.15:709][838]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 27
+[2020.03.10-20.57.15:709][838]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 26
+[2020.03.10-20.57.15:709][838]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 25
+[2020.03.10-20.57.15:709][838]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 24
+[2020.03.10-20.57.15:709][838]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 23
+[2020.03.10-20.57.15:709][838]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 22
+[2020.03.10-20.57.15:709][838]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 21
+[2020.03.10-20.57.15:709][838]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 20
+[2020.03.10-20.57.15:709][838]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 19
+[2020.03.10-20.57.15:709][838]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 18
+[2020.03.10-20.57.15:709][838]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 17
+[2020.03.10-20.57.15:709][838]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 16
+[2020.03.10-20.57.15:714][838]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.10-20.57.16:159][855]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2020.03.10-20.57.16:182][856]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 18
+[2020.03.10-20.57.16:203][857]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 17
+[2020.03.10-20.57.16:222][858]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2020.03.10-20.57.16:271][861]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2020.03.10-20.57.16:322][862]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 14
+[2020.03.10-20.57.16:322][862]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2020.03.10-20.57.16:322][862]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2020.03.10-20.57.16:350][864]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2020.03.10-20.57.16:376][865]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2020.03.10-20.57.16:376][865]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2020.03.10-20.57.16:399][866]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2020.03.10-20.57.16:535][871]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2020.03.10-20.57.16:602][873]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2020.03.10-20.57.16:626][874]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2020.03.10-20.57.16:646][875]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2020.03.10-20.57.16:646][875]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2020.03.10-20.57.16:667][876]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2020.03.10-20.57.16:700][878]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2020.03.10-20.57.16:992][894]MaterialEditorStats: Base pass shader: 178 instructions
+[2020.03.10-20.57.16:992][894]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 256 instructions
+[2020.03.10-20.57.16:992][894]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2020.03.10-20.57.16:992][894]MaterialEditorStats: Base pass vertex shader: 144 instructions
+[2020.03.10-20.57.16:992][894]MaterialEditorStats: Texture samplers: 4/16
+[2020.03.10-20.57.16:992][894]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.03.10-20.57.16:992][894]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.10-20.57.17:186][914]LogMaterial: Display: Missing cached shader map for material Clock_glass_Med_ClockMat, compiling. 
+[2020.03.10-20.57.17:213][914]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 27
+[2020.03.10-20.57.17:213][914]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 26
+[2020.03.10-20.57.17:213][914]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 25
+[2020.03.10-20.57.17:213][914]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 24
+[2020.03.10-20.57.17:213][914]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 23
+[2020.03.10-20.57.17:213][914]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 22
+[2020.03.10-20.57.17:213][914]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 21
+[2020.03.10-20.57.17:213][914]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 20
+[2020.03.10-20.57.17:213][914]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 19
+[2020.03.10-20.57.17:213][914]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 18
+[2020.03.10-20.57.17:213][914]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 17
+[2020.03.10-20.57.17:213][914]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 16
+[2020.03.10-20.57.17:213][914]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.10-20.57.17:665][932]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2020.03.10-20.57.17:669][932]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 18
+[2020.03.10-20.57.17:698][932]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 17
+[2020.03.10-20.57.17:725][934]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2020.03.10-20.57.17:766][936]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2020.03.10-20.57.17:809][938]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 14
+[2020.03.10-20.57.17:852][940]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2020.03.10-20.57.17:852][940]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2020.03.10-20.57.17:881][940]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 11
+[2020.03.10-20.57.17:881][940]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2020.03.10-20.57.17:881][940]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2020.03.10-20.57.17:917][941]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2020.03.10-20.57.18:012][946]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2020.03.10-20.57.18:102][949]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2020.03.10-20.57.18:128][950]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2020.03.10-20.57.18:151][951]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2020.03.10-20.57.18:151][951]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2020.03.10-20.57.18:189][953]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2020.03.10-20.57.18:206][954]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2020.03.10-20.57.18:504][970]MaterialEditorStats: Base pass shader: 180 instructions
+[2020.03.10-20.57.18:504][970]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 256 instructions
+[2020.03.10-20.57.18:504][970]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2020.03.10-20.57.18:504][970]MaterialEditorStats: Base pass vertex shader: 144 instructions
+[2020.03.10-20.57.18:504][970]MaterialEditorStats: Texture samplers: 4/16
+[2020.03.10-20.57.18:504][970]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.03.10-20.57.18:504][970]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.10-20.57.18:813][  3]LogMaterial: Display: Missing cached shader map for material Clock_glass_Med_ClockMat, compiling. 
+[2020.03.10-20.57.18:842][  3]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 27
+[2020.03.10-20.57.18:842][  3]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 26
+[2020.03.10-20.57.18:842][  3]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 25
+[2020.03.10-20.57.18:842][  3]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 24
+[2020.03.10-20.57.18:842][  3]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 23
+[2020.03.10-20.57.18:842][  3]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 22
+[2020.03.10-20.57.18:842][  3]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 21
+[2020.03.10-20.57.18:842][  3]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 20
+[2020.03.10-20.57.18:842][  3]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 19
+[2020.03.10-20.57.18:842][  3]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 18
+[2020.03.10-20.57.18:842][  3]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 17
+[2020.03.10-20.57.18:842][  3]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 16
+[2020.03.10-20.57.18:842][  3]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.10-20.57.19:303][ 20]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2020.03.10-20.57.19:303][ 20]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 18
+[2020.03.10-20.57.19:335][ 21]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 17
+[2020.03.10-20.57.19:355][ 22]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2020.03.10-20.57.19:413][ 25]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2020.03.10-20.57.19:446][ 27]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 14
+[2020.03.10-20.57.19:466][ 28]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2020.03.10-20.57.19:489][ 29]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2020.03.10-20.57.19:514][ 30]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 11
+[2020.03.10-20.57.19:514][ 30]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2020.03.10-20.57.19:514][ 30]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2020.03.10-20.57.19:551][ 31]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2020.03.10-20.57.19:642][ 35]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2020.03.10-20.57.19:760][ 39]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2020.03.10-20.57.19:786][ 40]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 5
+[2020.03.10-20.57.19:786][ 40]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2020.03.10-20.57.19:806][ 41]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2020.03.10-20.57.19:806][ 41]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2020.03.10-20.57.19:857][ 44]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2020.03.10-20.57.20:141][ 59]MaterialEditorStats: Base pass shader: 180 instructions
+[2020.03.10-20.57.20:141][ 59]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 258 instructions
+[2020.03.10-20.57.20:141][ 59]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2020.03.10-20.57.20:141][ 59]MaterialEditorStats: Base pass vertex shader: 144 instructions
+[2020.03.10-20.57.20:141][ 59]MaterialEditorStats: Texture samplers: 4/16
+[2020.03.10-20.57.20:141][ 59]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.03.10-20.57.20:141][ 59]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.10-20.57.20:722][116]LogMaterial: Display: Missing cached shader map for material Clock_glass_Med_ClockMat, compiling. 
+[2020.03.10-20.57.20:744][116]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 27
+[2020.03.10-20.57.20:744][116]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 26
+[2020.03.10-20.57.20:744][116]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 25
+[2020.03.10-20.57.20:744][116]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 24
+[2020.03.10-20.57.20:744][116]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 23
+[2020.03.10-20.57.20:744][116]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 22
+[2020.03.10-20.57.20:744][116]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 21
+[2020.03.10-20.57.20:744][116]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 20
+[2020.03.10-20.57.20:744][116]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 19
+[2020.03.10-20.57.20:744][116]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 18
+[2020.03.10-20.57.20:744][116]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 17
+[2020.03.10-20.57.20:744][116]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 16
+[2020.03.10-20.57.20:749][116]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.10-20.57.21:211][135]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2020.03.10-20.57.21:211][135]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 18
+[2020.03.10-20.57.21:233][136]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 17
+[2020.03.10-20.57.21:301][139]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2020.03.10-20.57.21:333][140]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2020.03.10-20.57.21:380][142]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 14
+[2020.03.10-20.57.21:380][142]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 13
+[2020.03.10-20.57.21:380][142]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 12
+[2020.03.10-20.57.21:406][143]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 11
+[2020.03.10-20.57.21:429][144]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2020.03.10-20.57.21:430][144]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2020.03.10-20.57.21:430][144]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2020.03.10-20.57.21:541][149]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2020.03.10-20.57.21:653][153]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2020.03.10-20.57.21:678][154]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2020.03.10-20.57.21:678][154]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2020.03.10-20.57.21:720][156]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.03.10-20.57.21:720][156]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2020.03.10-20.57.21:761][158]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2020.03.10-20.57.22:120][177]MaterialEditorStats: Base pass shader: 183 instructions
+[2020.03.10-20.57.22:120][177]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 261 instructions
+[2020.03.10-20.57.22:120][177]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2020.03.10-20.57.22:120][177]MaterialEditorStats: Base pass vertex shader: 144 instructions
+[2020.03.10-20.57.22:120][177]MaterialEditorStats: Texture samplers: 5/16
+[2020.03.10-20.57.22:120][177]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.10-20.57.22:120][177]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.10-20.57.30:645][ 70]LogMaterialEditor: Applying material Clock_glass_Med_ClockMat
+[2020.03.10-20.57.30:967][ 70]LogMaterial: Display: Missing cached shader map for material Clock_glass_Med_ClockMat, compiling. 
+[2020.03.10-20.57.31:005][ 70]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 27
+[2020.03.10-20.57.31:005][ 70]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 26
+[2020.03.10-20.57.31:005][ 70]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 25
+[2020.03.10-20.57.31:005][ 70]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 24
+[2020.03.10-20.57.31:005][ 70]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 23
+[2020.03.10-20.57.31:005][ 70]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 22
+[2020.03.10-20.57.31:005][ 70]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 21
+[2020.03.10-20.57.31:005][ 70]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 20
+[2020.03.10-20.57.31:005][ 70]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 19
+[2020.03.10-20.57.31:005][ 70]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 18
+[2020.03.10-20.57.31:005][ 70]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 17
+[2020.03.10-20.57.31:005][ 70]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 16
+[2020.03.10-20.57.31:030][ 70]LogMaterial: Display: Missing cached shader map for material Clock_glass_Med_ClockMat, compiling. 
+[2020.03.10-20.57.31:237][ 70]LogUObjectHash: Compacting FUObjectHashTables data took  13.62ms
+[2020.03.10-20.57.31:263][ 70]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.10-20.57.32:138][ 70]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 56
+[2020.03.10-20.57.32:138][ 70]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 55
+[2020.03.10-20.57.32:138][ 70]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 54
+[2020.03.10-20.57.32:138][ 70]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 53
+[2020.03.10-20.57.32:138][ 70]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 52
+[2020.03.10-20.57.32:138][ 70]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 51
+[2020.03.10-20.57.32:138][ 70]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 50
+[2020.03.10-20.57.32:138][ 70]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 49
+[2020.03.10-20.57.32:138][ 70]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 48
+[2020.03.10-20.57.32:138][ 70]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 47
+[2020.03.10-20.57.32:138][ 70]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 46
+[2020.03.10-20.57.32:138][ 70]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 45
+[2020.03.10-20.57.32:138][ 70]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 44
+[2020.03.10-20.57.32:138][ 70]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 43
+[2020.03.10-20.57.32:138][ 70]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 42
+[2020.03.10-20.57.32:138][ 70]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 41
+[2020.03.10-20.57.32:138][ 70]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 40
+[2020.03.10-20.57.32:138][ 70]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 39
+[2020.03.10-20.57.32:138][ 70]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 35
+[2020.03.10-20.57.32:138][ 70]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 32
+[2020.03.10-20.57.32:138][ 70]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 29
+[2020.03.10-20.57.32:138][ 70]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 26
+[2020.03.10-20.57.32:138][ 70]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 23
+[2020.03.10-20.57.32:138][ 70]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 21
+[2020.03.10-20.57.32:138][ 70]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 19
+[2020.03.10-20.57.32:138][ 70]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 17
+[2020.03.10-20.57.32:138][ 70]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 15
+[2020.03.10-20.57.32:138][ 70]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 13
+[2020.03.10-20.57.32:143][ 70]TextureStreamingBuild: Display: Compiling optional shaders took 0.895 seconds.
+[2020.03.10-20.57.32:249][ 70]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2020.03.10-20.57.32:249][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   6.98ms
+[2020.03.10-20.57.32:516][ 79]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2020.03.10-20.57.32:730][ 88]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2020.03.10-20.57.32:809][ 92]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.03.10-20.57.32:827][ 93]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 7
+[2020.03.10-20.57.32:845][ 94]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2020.03.10-20.57.32:991][101]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 5
+[2020.03.10-20.57.32:991][101]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.03.10-20.57.33:021][102]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2020.03.10-20.57.33:129][106]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2020.03.10-20.57.33:212][109]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2020.03.10-20.57.33:441][123]MaterialEditorStats: Base pass shader: 183 instructions
+[2020.03.10-20.57.33:441][123]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 261 instructions
+[2020.03.10-20.57.33:441][123]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2020.03.10-20.57.33:441][123]MaterialEditorStats: Base pass vertex shader: 144 instructions
+[2020.03.10-20.57.33:441][123]MaterialEditorStats: Texture samplers: 6/16
+[2020.03.10-20.57.33:441][123]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.10-20.57.33:441][123]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.10-20.57.44:786][802]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (clock2)
+[2020.03.10-20.58.00:031][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Clock_med_Med_Clock_Clock_base)
+[2020.03.10-20.58.02:332][753]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (clock2)
+[2020.03.10-20.58.37:056][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.03.10-20.58.37:094][795]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Solitary_Auto2186C871E4F7105C5CA6E8EAA8935CB38.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Maps/Solitary_Auto2.umap'
+[2020.03.10-20.58.37:096][795]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Solitary/Maps/Solitary' took 0.069
+[2020.03.10-20.58.37:096][795]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.069
+[2020.03.10-20.58.37:096][795]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Solitary/Meshes/Final_Meshes/Clock/Clock_glass_Med_ClockMat] ([1] browsable assets)...
+[2020.03.10-20.58.37:106][795]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Solitary/Meshes/Final_Meshes/Clock/Clock_glass_Med_ClockMat.Clock_glass_Med_ClockMat]
+[2020.03.10-20.58.37:106][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/Solitary/Meshes/Final_Meshes/Clock/Clock_glass_Med_ClockMat]
+[2020.03.10-20.58.37:128][795]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Clock_glass_Med_ClockMat_Auto2A91AEB3E45F64A89E24613AFC429325A.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Meshes/Final_Meshes/Clock/Clock_glass_Med_ClockMat_Auto2.uasset'
+[2020.03.10-20.58.37:129][795]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Solitary/Meshes/Final_Meshes/Clock/clock] ([1] browsable assets)...
+[2020.03.10-20.58.37:138][795]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Solitary/Meshes/Final_Meshes/Clock/clock.clock]
+[2020.03.10-20.58.37:138][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/Solitary/Meshes/Final_Meshes/Clock/clock]
+[2020.03.10-20.58.37:153][795]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/clock_Auto2456ABC5D42BEAC471504E887AD5D0B7C.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Meshes/Final_Meshes/Clock/clock_Auto2.uasset'
+[2020.03.10-20.58.37:154][795]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Solitary/Meshes/Final_Meshes/Clock/lambert1] ([1] browsable assets)...
+[2020.03.10-20.58.37:162][795]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Solitary/Meshes/Final_Meshes/Clock/lambert1.lambert1]
+[2020.03.10-20.58.37:162][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/Solitary/Meshes/Final_Meshes/Clock/lambert1]
+[2020.03.10-20.58.37:173][795]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/lambert1_Auto2C9778FD34C70758B1909938663D08B95.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Meshes/Final_Meshes/Clock/lambert1_Auto2.uasset'
+[2020.03.10-20.58.37:174][795]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Solitary/Meshes/Final_Meshes/Clock/clock_Skeleton] ([1] browsable assets)...
+[2020.03.10-20.58.37:174][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/Solitary/Meshes/Final_Meshes/Clock/clock_Skeleton]
+[2020.03.10-20.58.37:179][795]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/clock_Skeleton_Auto2064A04674B3F576ACC90CA9FDAA89E38.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Meshes/Final_Meshes/Clock/clock_Skeleton_Auto2.uasset'
+[2020.03.10-20.58.37:180][795]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Solitary/Meshes/Final_Meshes/Clock/clock_PhysicsAsset] ([1] browsable assets)...
+[2020.03.10-20.58.37:188][795]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Solitary/Meshes/Final_Meshes/Clock/clock_PhysicsAsset.clock_PhysicsAsset]
+[2020.03.10-20.58.37:188][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/Solitary/Meshes/Final_Meshes/Clock/clock_PhysicsAsset]
+[2020.03.10-20.58.37:199][795]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/clock_PhysicsAsset_Auto2D899C5EA43432AA1AFFAE38046CD5299.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Meshes/Final_Meshes/Clock/clock_PhysicsAsset_Auto2.uasset'
+[2020.03.10-20.58.37:200][795]LogFileHelpers: Auto-saving content packages took 0.104
