@@ -15203,3 +15203,949 @@ Make sure 'ChainAnim_C' has been compiled for  Play Anim
 [2020.03.11-02.34.59:568][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2020.03.11-02.34.59:695][985]LogWorld: UWorld::CleanupWorld for World_85, bSessionEnded=true, bCleanupResources=true
 [2020.03.11-02.34.59:695][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-02.37.29:704][192]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.03.11-02.37.29:764][192]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Solitary_Auto115E5316946B7577677DF3A897F526CFA.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Maps/Solitary_Auto1.umap'
+[2020.03.11-02.37.29:766][192]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Solitary/Maps/Solitary' took 0.091
+[2020.03.11-02.37.29:766][192]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.091
+[2020.03.11-02.37.29:767][192]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Solitary/Textures/placeholder_brick/Placeholder_brick] ([1] browsable assets)...
+[2020.03.11-02.37.29:776][192]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Solitary/Textures/placeholder_brick/Placeholder_brick.Placeholder_brick]
+[2020.03.11-02.37.29:776][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/Solitary/Textures/placeholder_brick/Placeholder_brick]
+[2020.03.11-02.37.29:788][192]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Placeholder_brick_Auto166C1CE9148A7BB54607DCC84AED53703.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Textures/placeholder_brick/Placeholder_brick_Auto1.uasset'
+[2020.03.11-02.37.29:789][192]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Solitary/Textures/placeholder_brick/tiled_stone] ([1] browsable assets)...
+[2020.03.11-02.37.29:794][192]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Solitary/Textures/placeholder_brick/tiled_stone.tiled_stone]
+[2020.03.11-02.37.29:794][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/Solitary/Textures/placeholder_brick/tiled_stone]
+[2020.03.11-02.37.29:803][192]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/tiled_stone_Auto1888732B7400149CB1672C6A032A4DC18.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Textures/placeholder_brick/tiled_stone_Auto1.uasset'
+[2020.03.11-02.37.29:804][192]LogFileHelpers: Auto-saving content packages took 0.038
+[2020.03.11-02.38.20:651][526]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers)
+[2020.03.11-02.44.38:558][ 16]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers2)
+[2020.03.11-02.44.49:190][285]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bed)
+[2020.03.11-02.44.49:762][349]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers)
+[2020.03.11-02.44.54:603][923]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers2)
+[2020.03.11-02.44.56:017][ 87]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.11-02.44.56:030][ 87]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.11-02.44.56:030][ 87]PIE: New page: PIE session: Solitary (Mar 10, 2020, 12:44:56 PM)
+[2020.03.11-02.44.56:030][ 87]LogPlayLevel: Creating play world package: /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-02.44.56:035][ 87]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004042s)
+[2020.03.11-02.44.56:035][ 87]LogAIModule: Creating AISystem for world Solitary
+[2020.03.11-02.44.56:035][ 87]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2020.03.11-02.44.56:035][ 87]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Solitary/Maps/Solitary.Solitary to /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary (0.005045s)
+[2020.03.11-02.44.56:063][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.03.11-02.44.56:078][ 87]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.11-02.44.56:078][ 87]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.11-02.44.56:078][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.11-02.44.56:078][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.11-02.44.56:078][ 87]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.11-02.44.56:078][ 87]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.11-02.44.56:078][ 87]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.11-02.44.56:078][ 87]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.11-02.44.56:079][ 87]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.11-02.44.56:079][ 87]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.11-02.44.56:104][ 87]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.11-02.44.56:104][ 87]LogAudioMixer: Display: Name: Speakers (2- Realtek High Definition Audio)
+[2020.03.11-02.44.56:104][ 87]LogAudioMixer: Display: Is Default: Yes
+[2020.03.11-02.44.56:104][ 87]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.11-02.44.56:104][ 87]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.11-02.44.56:104][ 87]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.11-02.44.56:104][ 87]LogAudioMixer: Display: Channel Order:
+[2020.03.11-02.44.56:104][ 87]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.11-02.44.56:104][ 87]LogAudioMixer: Display: 1: FrontRight
+[2020.03.11-02.44.56:108][ 87]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek High Definition Audio)
+[2020.03.11-02.44.56:110][ 87]LogInit: FAudioDevice initialized.
+[2020.03.11-02.44.56:114][ 87]LogLoad: Game class is 'BP_GameMode_Solitary_C'
+[2020.03.11-02.44.56:117][ 87]LogWorld: Bringing World /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary up for play (max tick rate 0) at 2020.03.10-19.44.56
+[2020.03.11-02.44.56:117][ 87]LogWorld: Bringing up level for play took: 0.002502
+[2020.03.11-02.44.56:118][ 87]LogOnline: OSS: Creating online subsystem instance for: :Context_160
+[2020.03.11-02.44.56:119][ 87]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-02.44.56:119][ 87]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-02.44.56:119][ 87]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-02.44.56:119][ 87]LogLevel: Warning: Failed to find streaming level object associated with 'Map_Pause'
+[2020.03.11-02.44.56:119][ 87]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-02.44.56:119][ 87]PIE: Play in editor start time for /Game/Solitary/Maps/UEDPIE_0_Solitary 0.315
+[2020.03.11-02.44.56:120][ 87]LogLevelStreaming: Display: FStreamLevelAction::UpdateOperation() LevelName Map_Pause, bIsLevelValid 0
+[2020.03.11-02.45.09:681][714]LogScript: Warning: Accessed None trying to read property NextTrigger
+	AudioTriggers_C /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary:PersistentLevel.AudioTriggers_5
+	Function /Game/Solitary/Triggers/AudioTriggers.AudioTriggers_C:ExecuteUbergraph_AudioTriggers:0117
+[2020.03.11-02.45.09:681][714]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property NextTrigger". Blueprint:  AudioTriggers Function:  Execute Ubergraph Audio Triggers Graph:  EventGraph Node:  Trigger
+[2020.03.11-02.45.10:207][777]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-02.45.10:209][777]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.11-02.45.10:228][777]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.11-02.45.10:229][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-02.45.10:229][777]LogWorld: BeginTearingDown for /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-02.45.10:229][777]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-02.45.10:229][777]LogWorld: UWorld::CleanupWorld for Solitary, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-02.45.10:230][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-02.45.10:237][777]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.11-02.45.10:243][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-02.45.10:271][777]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-02.45.10:274][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-02.45.10:278][777]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.03.11-02.45.10:332][778]LogPlayLevel: Display: Destroying online subsystem :Context_160
+[2020.03.11-02.45.11:547][897]LogSlate: Window 'Message Log' being destroyed
+[2020.03.11-02.45.11:551][897]LogSlate: Window 'Message Log' being destroyed
+[2020.03.11-02.45.12:466][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.03.11-02.45.12:982][ 64]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers2)
+[2020.03.11-02.45.13:785][156]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers)
+[2020.03.11-02.45.23:657][334]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.11-02.45.23:669][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.11-02.45.23:669][334]PIE: New page: PIE session: Solitary (Mar 10, 2020, 12:45:23 PM)
+[2020.03.11-02.45.23:670][334]LogPlayLevel: Creating play world package: /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-02.45.23:674][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003918s)
+[2020.03.11-02.45.23:674][334]LogAIModule: Creating AISystem for world Solitary
+[2020.03.11-02.45.23:674][334]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2020.03.11-02.45.23:674][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Solitary/Maps/Solitary.Solitary to /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary (0.004739s)
+[2020.03.11-02.45.23:704][334]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.03.11-02.45.23:711][334]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.11-02.45.23:711][334]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.11-02.45.23:711][334]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.11-02.45.23:711][334]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.11-02.45.23:711][334]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.11-02.45.23:711][334]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.11-02.45.23:711][334]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.11-02.45.23:711][334]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.11-02.45.23:711][334]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.11-02.45.23:711][334]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.11-02.45.23:736][334]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.11-02.45.23:736][334]LogAudioMixer: Display: Name: Speakers (2- Realtek High Definition Audio)
+[2020.03.11-02.45.23:736][334]LogAudioMixer: Display: Is Default: Yes
+[2020.03.11-02.45.23:736][334]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.11-02.45.23:736][334]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.11-02.45.23:736][334]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.11-02.45.23:736][334]LogAudioMixer: Display: Channel Order:
+[2020.03.11-02.45.23:736][334]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.11-02.45.23:736][334]LogAudioMixer: Display: 1: FrontRight
+[2020.03.11-02.45.23:740][334]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek High Definition Audio)
+[2020.03.11-02.45.23:742][334]LogInit: FAudioDevice initialized.
+[2020.03.11-02.45.23:749][334]LogLoad: Game class is 'BP_GameMode_Solitary_C'
+[2020.03.11-02.45.23:751][334]LogWorld: Bringing World /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary up for play (max tick rate 0) at 2020.03.10-19.45.23
+[2020.03.11-02.45.23:751][334]LogWorld: Bringing up level for play took: 0.002363
+[2020.03.11-02.45.23:751][334]LogOnline: OSS: Creating online subsystem instance for: :Context_161
+[2020.03.11-02.45.23:753][334]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-02.45.23:753][334]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-02.45.23:753][334]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-02.45.23:753][334]LogLevel: Warning: Failed to find streaming level object associated with 'Map_Pause'
+[2020.03.11-02.45.23:753][334]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-02.45.23:753][334]PIE: Play in editor start time for /Game/Solitary/Maps/UEDPIE_0_Solitary -0.047
+[2020.03.11-02.45.23:753][334]LogLevelStreaming: Display: FStreamLevelAction::UpdateOperation() LevelName Map_Pause, bIsLevelValid 0
+[2020.03.11-02.45.33:872][548]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-02.45.33:874][548]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.11-02.45.33:894][548]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.11-02.45.33:894][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-02.45.33:894][548]LogWorld: BeginTearingDown for /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-02.45.33:894][548]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-02.45.33:894][548]LogWorld: UWorld::CleanupWorld for Solitary, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-02.45.33:895][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-02.45.33:899][548]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.11-02.45.33:906][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-02.45.33:934][548]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-02.45.33:937][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-02.45.33:941][548]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.03.11-02.45.33:984][550]LogPlayLevel: Display: Destroying online subsystem :Context_161
+[2020.03.11-02.45.35:084][682]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers2)
+[2020.03.11-02.45.36:123][803]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers)
+[2020.03.11-02.45.40:911][370]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers2)
+[2020.03.11-02.45.44:425][784]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers)
+[2020.03.11-02.45.45:330][887]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.11-02.45.45:343][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.11-02.45.45:343][887]PIE: New page: PIE session: Solitary (Mar 10, 2020, 12:45:45 PM)
+[2020.03.11-02.45.45:343][887]LogPlayLevel: Creating play world package: /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-02.45.45:347][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003987s)
+[2020.03.11-02.45.45:348][887]LogAIModule: Creating AISystem for world Solitary
+[2020.03.11-02.45.45:348][887]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2020.03.11-02.45.45:348][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Solitary/Maps/Solitary.Solitary to /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary (0.004821s)
+[2020.03.11-02.45.45:371][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.03.11-02.45.45:378][887]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.11-02.45.45:378][887]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.11-02.45.45:378][887]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.11-02.45.45:378][887]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.11-02.45.45:378][887]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.11-02.45.45:378][887]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.11-02.45.45:378][887]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.11-02.45.45:378][887]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.11-02.45.45:378][887]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.11-02.45.45:378][887]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.11-02.45.45:403][887]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.11-02.45.45:403][887]LogAudioMixer: Display: Name: Speakers (2- Realtek High Definition Audio)
+[2020.03.11-02.45.45:403][887]LogAudioMixer: Display: Is Default: Yes
+[2020.03.11-02.45.45:403][887]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.11-02.45.45:403][887]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.11-02.45.45:403][887]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.11-02.45.45:403][887]LogAudioMixer: Display: Channel Order:
+[2020.03.11-02.45.45:403][887]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.11-02.45.45:403][887]LogAudioMixer: Display: 1: FrontRight
+[2020.03.11-02.45.45:407][887]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek High Definition Audio)
+[2020.03.11-02.45.45:409][887]LogInit: FAudioDevice initialized.
+[2020.03.11-02.45.45:419][887]LogLoad: Game class is 'BP_GameMode_Solitary_C'
+[2020.03.11-02.45.45:422][887]LogWorld: Bringing World /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary up for play (max tick rate 0) at 2020.03.10-19.45.45
+[2020.03.11-02.45.45:422][887]LogWorld: Bringing up level for play took: 0.002348
+[2020.03.11-02.45.45:422][887]LogOnline: OSS: Creating online subsystem instance for: :Context_162
+[2020.03.11-02.45.45:423][887]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-02.45.45:423][887]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-02.45.45:423][887]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-02.45.45:424][887]LogLevel: Warning: Failed to find streaming level object associated with 'Map_Pause'
+[2020.03.11-02.45.45:424][887]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-02.45.45:424][887]PIE: Play in editor start time for /Game/Solitary/Maps/UEDPIE_0_Solitary -0.373
+[2020.03.11-02.45.45:424][887]LogLevelStreaming: Display: FStreamLevelAction::UpdateOperation() LevelName Map_Pause, bIsLevelValid 0
+[2020.03.11-02.45.49:895][423]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-02.45.49:911][423]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.11-02.45.49:931][423]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.11-02.45.49:932][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-02.45.49:932][423]LogWorld: BeginTearingDown for /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-02.45.49:932][423]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-02.45.49:932][423]LogWorld: UWorld::CleanupWorld for Solitary, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-02.45.49:932][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-02.45.49:938][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.11-02.45.49:945][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-02.45.49:969][423]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-02.45.49:972][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-02.45.49:976][423]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.03.11-02.45.49:994][424]LogPlayLevel: Display: Destroying online subsystem :Context_162
+[2020.03.11-02.45.50:955][535]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers)
+[2020.03.11-02.45.53:607][846]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.11-02.45.53:619][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.11-02.45.53:619][846]PIE: New page: PIE session: Solitary (Mar 10, 2020, 12:45:53 PM)
+[2020.03.11-02.45.53:619][846]LogPlayLevel: Creating play world package: /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-02.45.53:624][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004336s)
+[2020.03.11-02.45.53:624][846]LogAIModule: Creating AISystem for world Solitary
+[2020.03.11-02.45.53:624][846]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2020.03.11-02.45.53:624][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Solitary/Maps/Solitary.Solitary to /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary (0.005210s)
+[2020.03.11-02.45.53:653][846]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.03.11-02.45.53:657][846]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.11-02.45.53:657][846]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.11-02.45.53:657][846]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.11-02.45.53:657][846]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.11-02.45.53:657][846]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.11-02.45.53:657][846]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.11-02.45.53:657][846]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.11-02.45.53:657][846]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.11-02.45.53:657][846]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.11-02.45.53:657][846]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.11-02.45.53:682][846]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.11-02.45.53:682][846]LogAudioMixer: Display: Name: Speakers (2- Realtek High Definition Audio)
+[2020.03.11-02.45.53:682][846]LogAudioMixer: Display: Is Default: Yes
+[2020.03.11-02.45.53:682][846]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.11-02.45.53:682][846]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.11-02.45.53:682][846]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.11-02.45.53:682][846]LogAudioMixer: Display: Channel Order:
+[2020.03.11-02.45.53:682][846]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.11-02.45.53:682][846]LogAudioMixer: Display: 1: FrontRight
+[2020.03.11-02.45.53:686][846]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek High Definition Audio)
+[2020.03.11-02.45.53:687][846]LogInit: FAudioDevice initialized.
+[2020.03.11-02.45.53:696][846]LogLoad: Game class is 'BP_GameMode_Solitary_C'
+[2020.03.11-02.45.53:699][846]LogWorld: Bringing World /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary up for play (max tick rate 0) at 2020.03.10-19.45.53
+[2020.03.11-02.45.53:699][846]LogWorld: Bringing up level for play took: 0.002304
+[2020.03.11-02.45.53:699][846]LogOnline: OSS: Creating online subsystem instance for: :Context_163
+[2020.03.11-02.45.53:700][846]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-02.45.53:700][846]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-02.45.53:700][846]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-02.45.53:701][846]LogLevel: Warning: Failed to find streaming level object associated with 'Map_Pause'
+[2020.03.11-02.45.53:701][846]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-02.45.53:701][846]PIE: Play in editor start time for /Game/Solitary/Maps/UEDPIE_0_Solitary -0.094
+[2020.03.11-02.45.53:701][846]LogLevelStreaming: Display: FStreamLevelAction::UpdateOperation() LevelName Map_Pause, bIsLevelValid 0
+[2020.03.11-02.45.57:505][302]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-02.45.57:520][302]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.11-02.45.57:550][302]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.11-02.45.57:550][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-02.45.57:550][302]LogWorld: BeginTearingDown for /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-02.45.57:550][302]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-02.45.57:551][302]LogWorld: UWorld::CleanupWorld for Solitary, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-02.45.57:551][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-02.45.57:561][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.11-02.45.57:568][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-02.45.57:596][302]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-02.45.57:598][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-02.45.57:602][302]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.03.11-02.45.57:620][303]LogPlayLevel: Display: Destroying online subsystem :Context_163
+[2020.03.11-02.45.58:464][393]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers2)
+[2020.03.11-02.45.59:471][510]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers)
+[2020.03.11-02.46.01:506][749]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.11-02.46.01:519][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.11-02.46.01:519][749]PIE: New page: PIE session: Solitary (Mar 10, 2020, 12:46:01 PM)
+[2020.03.11-02.46.01:519][749]LogPlayLevel: Creating play world package: /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-02.46.01:523][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003900s)
+[2020.03.11-02.46.01:524][749]LogAIModule: Creating AISystem for world Solitary
+[2020.03.11-02.46.01:524][749]LogPlayLevel: PIE: World Init took: (0.000735s)
+[2020.03.11-02.46.01:524][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Solitary/Maps/Solitary.Solitary to /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary (0.004725s)
+[2020.03.11-02.46.01:550][749]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.03.11-02.46.01:553][749]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.11-02.46.01:553][749]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.11-02.46.01:553][749]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.11-02.46.01:553][749]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.11-02.46.01:553][749]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.11-02.46.01:553][749]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.11-02.46.01:553][749]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.11-02.46.01:553][749]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.11-02.46.01:554][749]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.11-02.46.01:554][749]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.11-02.46.01:579][749]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.11-02.46.01:579][749]LogAudioMixer: Display: Name: Speakers (2- Realtek High Definition Audio)
+[2020.03.11-02.46.01:579][749]LogAudioMixer: Display: Is Default: Yes
+[2020.03.11-02.46.01:579][749]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.11-02.46.01:579][749]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.11-02.46.01:579][749]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.11-02.46.01:579][749]LogAudioMixer: Display: Channel Order:
+[2020.03.11-02.46.01:579][749]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.11-02.46.01:579][749]LogAudioMixer: Display: 1: FrontRight
+[2020.03.11-02.46.01:583][749]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek High Definition Audio)
+[2020.03.11-02.46.01:584][749]LogInit: FAudioDevice initialized.
+[2020.03.11-02.46.01:590][749]LogLoad: Game class is 'BP_GameMode_Solitary_C'
+[2020.03.11-02.46.01:593][749]LogWorld: Bringing World /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary up for play (max tick rate 0) at 2020.03.10-19.46.01
+[2020.03.11-02.46.01:593][749]LogWorld: Bringing up level for play took: 0.002832
+[2020.03.11-02.46.01:594][749]LogOnline: OSS: Creating online subsystem instance for: :Context_164
+[2020.03.11-02.46.01:595][749]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-02.46.01:595][749]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-02.46.01:595][749]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-02.46.01:595][749]LogLevel: Warning: Failed to find streaming level object associated with 'Map_Pause'
+[2020.03.11-02.46.01:595][749]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-02.46.01:595][749]PIE: Play in editor start time for /Game/Solitary/Maps/UEDPIE_0_Solitary -0.198
+[2020.03.11-02.46.01:595][749]LogLevelStreaming: Display: FStreamLevelAction::UpdateOperation() LevelName Map_Pause, bIsLevelValid 0
+[2020.03.11-02.46.10:649][832]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-02.46.10:668][832]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.11-02.46.10:688][832]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.11-02.46.10:688][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-02.46.10:688][832]LogWorld: BeginTearingDown for /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-02.46.10:688][832]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-02.46.10:688][832]LogWorld: UWorld::CleanupWorld for Solitary, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-02.46.10:689][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-02.46.10:700][832]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.11-02.46.10:706][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-02.46.10:734][832]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-02.46.10:736][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-02.46.10:741][832]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.03.11-02.46.10:759][833]LogPlayLevel: Display: Destroying online subsystem :Context_164
+[2020.03.11-02.46.11:658][939]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers)
+[2020.03.11-02.46.26:014][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2020.03.11-02.46.26:788][660]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (clock_12_to_12_Anim)
+[2020.03.11-02.46.29:975][942]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Solitary/Animations/clock/clock_12_to_12_Anim.clock_12_to_12_Anim
+[2020.03.11-02.46.29:980][942]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_87:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.11-02.46.30:022][942]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_87:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.11-02.46.30:239][942]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.03.11-02.46.36:759][556]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/clock_12_to_12_Anim08B3F12A40421CFB7116DEA03415E328.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Content/Solitary/Animations/clock/clock_12_to_12_Anim.uasset'
+[2020.03.11-02.46.36:779][556]AssetCheck: New page: Asset Save: clock_12_to_12_Anim
+[2020.03.11-02.46.36:779][556]LogContentValidation: Display: Validating AnimSequence /Game/Solitary/Animations/clock/clock_12_to_12_Anim.clock_12_to_12_Anim
+[2020.03.11-02.46.45:401][669]LogSlate: Window 'clock_12_to_12_Anim' being destroyed
+[2020.03.11-02.46.45:410][669]LogSlate: Window 'clock_12_to_12_Anim' being destroyed
+[2020.03.11-02.46.45:411][669]LogWorld: UWorld::CleanupWorld for World_87, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-02.46.45:411][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-02.46.45:441][669]LogWorld: UWorld::CleanupWorld for World_89, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-02.46.45:441][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-02.46.45:566][669]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-02.46.45:566][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-02.46.53:983][888]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.11-02.46.53:995][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.11-02.46.53:995][888]PIE: New page: PIE session: Solitary (Mar 10, 2020, 12:46:53 PM)
+[2020.03.11-02.46.53:995][888]LogPlayLevel: Creating play world package: /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-02.46.53:999][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003938s)
+[2020.03.11-02.46.54:000][888]LogAIModule: Creating AISystem for world Solitary
+[2020.03.11-02.46.54:000][888]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2020.03.11-02.46.54:000][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Solitary/Maps/Solitary.Solitary to /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary (0.004744s)
+[2020.03.11-02.46.54:032][888]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.03.11-02.46.54:043][888]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.11-02.46.54:043][888]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.11-02.46.54:043][888]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.11-02.46.54:043][888]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.11-02.46.54:043][888]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.11-02.46.54:043][888]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.11-02.46.54:043][888]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.11-02.46.54:043][888]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.11-02.46.54:043][888]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.11-02.46.54:043][888]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.11-02.46.54:068][888]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.11-02.46.54:068][888]LogAudioMixer: Display: Name: Speakers (2- Realtek High Definition Audio)
+[2020.03.11-02.46.54:068][888]LogAudioMixer: Display: Is Default: Yes
+[2020.03.11-02.46.54:068][888]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.11-02.46.54:068][888]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.11-02.46.54:068][888]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.11-02.46.54:068][888]LogAudioMixer: Display: Channel Order:
+[2020.03.11-02.46.54:068][888]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.11-02.46.54:068][888]LogAudioMixer: Display: 1: FrontRight
+[2020.03.11-02.46.54:072][888]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek High Definition Audio)
+[2020.03.11-02.46.54:073][888]LogInit: FAudioDevice initialized.
+[2020.03.11-02.46.54:080][888]LogLoad: Game class is 'BP_GameMode_Solitary_C'
+[2020.03.11-02.46.54:082][888]LogWorld: Bringing World /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary up for play (max tick rate 0) at 2020.03.10-19.46.54
+[2020.03.11-02.46.54:083][888]LogWorld: Bringing up level for play took: 0.002333
+[2020.03.11-02.46.54:083][888]LogOnline: OSS: Creating online subsystem instance for: :Context_168
+[2020.03.11-02.46.54:084][888]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-02.46.54:084][888]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-02.46.54:084][888]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-02.46.54:084][888]LogLevel: Warning: Failed to find streaming level object associated with 'Map_Pause'
+[2020.03.11-02.46.54:084][888]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-02.46.54:084][888]PIE: Play in editor start time for /Game/Solitary/Maps/UEDPIE_0_Solitary 0.3
+[2020.03.11-02.46.54:084][888]LogLevelStreaming: Display: FStreamLevelAction::UpdateOperation() LevelName Map_Pause, bIsLevelValid 0
+[2020.03.11-02.46.57:314][274]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-02.46.57:320][274]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.11-02.46.57:340][274]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.11-02.46.57:340][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-02.46.57:340][274]LogWorld: BeginTearingDown for /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-02.46.57:340][274]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-02.46.57:340][274]LogWorld: UWorld::CleanupWorld for Solitary, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-02.46.57:341][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-02.46.57:348][274]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.11-02.46.57:354][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-02.46.57:381][274]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-02.46.57:384][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-02.46.57:388][274]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.03.11-02.46.57:420][277]LogPlayLevel: Display: Destroying online subsystem :Context_168
+[2020.03.11-02.46.57:872][330]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.11-02.46.57:884][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.11-02.46.57:884][330]PIE: New page: PIE session: Solitary (Mar 10, 2020, 12:46:57 PM)
+[2020.03.11-02.46.57:884][330]LogPlayLevel: Creating play world package: /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-02.46.57:888][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003902s)
+[2020.03.11-02.46.57:889][330]LogAIModule: Creating AISystem for world Solitary
+[2020.03.11-02.46.57:889][330]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2020.03.11-02.46.57:889][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Solitary/Maps/Solitary.Solitary to /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary (0.004708s)
+[2020.03.11-02.46.57:917][330]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.03.11-02.46.57:917][330]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.11-02.46.57:917][330]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.11-02.46.57:917][330]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.11-02.46.57:917][330]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.11-02.46.57:917][330]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.11-02.46.57:917][330]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.11-02.46.57:917][330]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.11-02.46.57:917][330]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.11-02.46.57:918][330]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.11-02.46.57:918][330]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.11-02.46.57:943][330]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.11-02.46.57:943][330]LogAudioMixer: Display: Name: Speakers (2- Realtek High Definition Audio)
+[2020.03.11-02.46.57:943][330]LogAudioMixer: Display: Is Default: Yes
+[2020.03.11-02.46.57:943][330]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.11-02.46.57:943][330]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.11-02.46.57:943][330]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.11-02.46.57:943][330]LogAudioMixer: Display: Channel Order:
+[2020.03.11-02.46.57:943][330]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.11-02.46.57:943][330]LogAudioMixer: Display: 1: FrontRight
+[2020.03.11-02.46.57:947][330]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek High Definition Audio)
+[2020.03.11-02.46.57:948][330]LogInit: FAudioDevice initialized.
+[2020.03.11-02.46.57:956][330]LogLoad: Game class is 'BP_GameMode_Solitary_C'
+[2020.03.11-02.46.57:958][330]LogWorld: Bringing World /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary up for play (max tick rate 0) at 2020.03.10-19.46.57
+[2020.03.11-02.46.57:959][330]LogWorld: Bringing up level for play took: 0.002344
+[2020.03.11-02.46.57:959][330]LogOnline: OSS: Creating online subsystem instance for: :Context_169
+[2020.03.11-02.46.57:960][330]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-02.46.57:960][330]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-02.46.57:960][330]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-02.46.57:960][330]LogLevel: Warning: Failed to find streaming level object associated with 'Map_Pause'
+[2020.03.11-02.46.57:960][330]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-02.46.57:960][330]PIE: Play in editor start time for /Game/Solitary/Maps/UEDPIE_0_Solitary 0.177
+[2020.03.11-02.46.57:960][330]LogLevelStreaming: Display: FStreamLevelAction::UpdateOperation() LevelName Map_Pause, bIsLevelValid 0
+[2020.03.11-02.54.22:996][718]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-02.54.22:996][718]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-02.54.22:996][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-02.54.22:996][718]LogWorld: BeginTearingDown for /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-02.54.22:996][718]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-02.54.22:996][718]LogWorld: UWorld::CleanupWorld for Solitary, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-02.54.22:997][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-02.54.23:003][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.11-02.54.23:010][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-02.54.23:032][718]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-02.54.23:035][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-02.54.23:040][718]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.03.11-02.54.23:098][722]LogPlayLevel: Display: Destroying online subsystem :Context_169
+[2020.03.11-02.54.24:547][896]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers)
+[2020.03.11-02.54.28:289][340]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers2)
+[2020.03.11-02.54.29:046][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.03.11-02.54.30:021][539]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers)
+[2020.03.11-02.54.40:718][811]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers2)
+[2020.03.11-02.54.43:207][106]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers)
+[2020.03.11-02.54.46:113][448]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.11-02.54.46:125][448]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.11-02.54.46:125][448]PIE: New page: PIE session: Solitary (Mar 10, 2020, 12:54:46 PM)
+[2020.03.11-02.54.46:126][448]LogPlayLevel: Creating play world package: /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-02.54.46:130][448]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003996s)
+[2020.03.11-02.54.46:130][448]LogAIModule: Creating AISystem for world Solitary
+[2020.03.11-02.54.46:131][448]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2020.03.11-02.54.46:131][448]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Solitary/Maps/Solitary.Solitary to /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary (0.004861s)
+[2020.03.11-02.54.46:160][448]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.03.11-02.54.46:170][448]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.11-02.54.46:170][448]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.11-02.54.46:170][448]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.11-02.54.46:170][448]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.11-02.54.46:170][448]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.11-02.54.46:170][448]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.11-02.54.46:170][448]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.11-02.54.46:170][448]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.11-02.54.46:170][448]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.11-02.54.46:170][448]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.11-02.54.46:195][448]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.11-02.54.46:195][448]LogAudioMixer: Display: Name: Speakers (2- Realtek High Definition Audio)
+[2020.03.11-02.54.46:195][448]LogAudioMixer: Display: Is Default: Yes
+[2020.03.11-02.54.46:195][448]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.11-02.54.46:195][448]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.11-02.54.46:195][448]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.11-02.54.46:195][448]LogAudioMixer: Display: Channel Order:
+[2020.03.11-02.54.46:195][448]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.11-02.54.46:195][448]LogAudioMixer: Display: 1: FrontRight
+[2020.03.11-02.54.46:199][448]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek High Definition Audio)
+[2020.03.11-02.54.46:201][448]LogInit: FAudioDevice initialized.
+[2020.03.11-02.54.46:210][448]LogLoad: Game class is 'BP_GameMode_Solitary_C'
+[2020.03.11-02.54.46:213][448]LogWorld: Bringing World /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary up for play (max tick rate 0) at 2020.03.10-19.54.46
+[2020.03.11-02.54.46:213][448]LogWorld: Bringing up level for play took: 0.002308
+[2020.03.11-02.54.46:213][448]LogOnline: OSS: Creating online subsystem instance for: :Context_170
+[2020.03.11-02.54.46:215][448]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-02.54.46:215][448]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-02.54.46:215][448]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-02.54.46:215][448]LogLevel: Warning: Failed to find streaming level object associated with 'Map_Pause'
+[2020.03.11-02.54.46:215][448]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-02.54.46:215][448]PIE: Play in editor start time for /Game/Solitary/Maps/UEDPIE_0_Solitary 0.511
+[2020.03.11-02.54.46:215][448]LogLevelStreaming: Display: FStreamLevelAction::UpdateOperation() LevelName Map_Pause, bIsLevelValid 0
+[2020.03.11-03.09.08:539][426]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-03.09.08:539][426]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-03.09.08:539][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-03.09.08:539][426]LogWorld: BeginTearingDown for /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-03.09.08:539][426]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-03.09.08:539][426]LogWorld: UWorld::CleanupWorld for Solitary, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-03.09.08:540][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-03.09.08:549][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.11-03.09.08:555][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-03.09.08:583][426]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-03.09.08:586][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-03.09.08:592][426]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2020.03.11-03.09.08:644][428]LogPlayLevel: Display: Destroying online subsystem :Context_170
+[2020.03.11-03.09.11:105][721]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2020.03.11-03.09.11:697][756]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers2)
+[2020.03.11-03.09.12:880][892]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers2)
+[2020.03.11-03.09.15:149][162]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers)
+[2020.03.11-03.09.20:840][838]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.11-03.09.20:854][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.11-03.09.20:854][838]PIE: New page: PIE session: Solitary (Mar 10, 2020, 1:09:20 PM)
+[2020.03.11-03.09.20:854][838]LogPlayLevel: Creating play world package: /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-03.09.20:858][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003961s)
+[2020.03.11-03.09.20:859][838]LogAIModule: Creating AISystem for world Solitary
+[2020.03.11-03.09.20:859][838]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2020.03.11-03.09.20:859][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Solitary/Maps/Solitary.Solitary to /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary (0.004808s)
+[2020.03.11-03.09.20:882][838]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.03.11-03.09.20:889][838]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.11-03.09.20:889][838]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.11-03.09.20:889][838]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.11-03.09.20:889][838]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.11-03.09.20:889][838]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.11-03.09.20:889][838]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.11-03.09.20:889][838]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.11-03.09.20:889][838]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.11-03.09.20:889][838]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.11-03.09.20:889][838]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.11-03.09.20:914][838]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.11-03.09.20:914][838]LogAudioMixer: Display: Name: Speakers (2- Realtek High Definition Audio)
+[2020.03.11-03.09.20:914][838]LogAudioMixer: Display: Is Default: Yes
+[2020.03.11-03.09.20:914][838]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.11-03.09.20:914][838]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.11-03.09.20:914][838]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.11-03.09.20:914][838]LogAudioMixer: Display: Channel Order:
+[2020.03.11-03.09.20:914][838]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.11-03.09.20:914][838]LogAudioMixer: Display: 1: FrontRight
+[2020.03.11-03.09.20:919][838]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek High Definition Audio)
+[2020.03.11-03.09.20:920][838]LogInit: FAudioDevice initialized.
+[2020.03.11-03.09.20:927][838]LogLoad: Game class is 'BP_GameMode_Solitary_C'
+[2020.03.11-03.09.20:929][838]LogWorld: Bringing World /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary up for play (max tick rate 0) at 2020.03.10-20.09.20
+[2020.03.11-03.09.20:930][838]LogWorld: Bringing up level for play took: 0.002392
+[2020.03.11-03.09.20:930][838]LogOnline: OSS: Creating online subsystem instance for: :Context_171
+[2020.03.11-03.09.20:931][838]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-03.09.20:931][838]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-03.09.20:931][838]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-03.09.20:931][838]LogLevel: Warning: Failed to find streaming level object associated with 'Map_Pause'
+[2020.03.11-03.09.20:931][838]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-03.09.20:932][838]PIE: Play in editor start time for /Game/Solitary/Maps/UEDPIE_0_Solitary -0.657
+[2020.03.11-03.09.20:932][838]LogLevelStreaming: Display: FStreamLevelAction::UpdateOperation() LevelName Map_Pause, bIsLevelValid 0
+[2020.03.11-03.09.51:970][559]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-03.09.51:980][559]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.11-03.09.52:000][559]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.11-03.09.52:000][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-03.09.52:000][559]LogWorld: BeginTearingDown for /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-03.09.52:000][559]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-03.09.52:000][559]LogWorld: UWorld::CleanupWorld for Solitary, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-03.09.52:001][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-03.09.52:010][559]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.11-03.09.52:016][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-03.09.52:043][559]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-03.09.52:046][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-03.09.52:050][559]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.03.11-03.09.52:069][560]LogPlayLevel: Display: Destroying online subsystem :Context_171
+[2020.03.11-03.09.52:782][634]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers2)
+[2020.03.11-03.10.00:704][575]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.11-03.10.00:717][575]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.11-03.10.00:717][575]PIE: New page: PIE session: Solitary (Mar 10, 2020, 1:10:00 PM)
+[2020.03.11-03.10.00:718][575]LogPlayLevel: Creating play world package: /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-03.10.00:722][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004002s)
+[2020.03.11-03.10.00:722][575]LogAIModule: Creating AISystem for world Solitary
+[2020.03.11-03.10.00:723][575]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2020.03.11-03.10.00:723][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Solitary/Maps/Solitary.Solitary to /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary (0.004839s)
+[2020.03.11-03.10.00:753][575]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.03.11-03.10.00:759][575]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.11-03.10.00:759][575]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.11-03.10.00:759][575]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.11-03.10.00:759][575]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.11-03.10.00:759][575]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.11-03.10.00:759][575]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.11-03.10.00:759][575]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.11-03.10.00:759][575]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.11-03.10.00:760][575]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.11-03.10.00:760][575]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.11-03.10.00:785][575]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.11-03.10.00:785][575]LogAudioMixer: Display: Name: Speakers (2- Realtek High Definition Audio)
+[2020.03.11-03.10.00:785][575]LogAudioMixer: Display: Is Default: Yes
+[2020.03.11-03.10.00:785][575]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.11-03.10.00:785][575]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.11-03.10.00:785][575]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.11-03.10.00:785][575]LogAudioMixer: Display: Channel Order:
+[2020.03.11-03.10.00:785][575]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.11-03.10.00:785][575]LogAudioMixer: Display: 1: FrontRight
+[2020.03.11-03.10.00:789][575]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek High Definition Audio)
+[2020.03.11-03.10.00:791][575]LogInit: FAudioDevice initialized.
+[2020.03.11-03.10.00:799][575]LogLoad: Game class is 'BP_GameMode_Solitary_C'
+[2020.03.11-03.10.00:802][575]LogWorld: Bringing World /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary up for play (max tick rate 0) at 2020.03.10-20.10.00
+[2020.03.11-03.10.00:802][575]LogWorld: Bringing up level for play took: 0.002346
+[2020.03.11-03.10.00:802][575]LogOnline: OSS: Creating online subsystem instance for: :Context_172
+[2020.03.11-03.10.00:803][575]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-03.10.00:803][575]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-03.10.00:803][575]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-03.10.00:804][575]LogLevel: Warning: Failed to find streaming level object associated with 'Map_Pause'
+[2020.03.11-03.10.00:804][575]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-03.10.00:804][575]PIE: Play in editor start time for /Game/Solitary/Maps/UEDPIE_0_Solitary -0.78
+[2020.03.11-03.10.00:804][575]LogLevelStreaming: Display: FStreamLevelAction::UpdateOperation() LevelName Map_Pause, bIsLevelValid 0
+[2020.03.11-03.10.04:002][958]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-03.10.04:018][958]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.11-03.10.04:038][958]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.11-03.10.04:038][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-03.10.04:038][958]LogWorld: BeginTearingDown for /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-03.10.04:039][958]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-03.10.04:039][958]LogWorld: UWorld::CleanupWorld for Solitary, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-03.10.04:039][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-03.10.04:050][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.11-03.10.04:056][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-03.10.04:084][958]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-03.10.04:086][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-03.10.04:091][958]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.03.11-03.10.04:109][959]LogPlayLevel: Display: Destroying online subsystem :Context_172
+[2020.03.11-03.10.05:868][166]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers)
+[2020.03.11-03.10.07:524][361]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers2)
+[2020.03.11-03.10.09:605][607]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers)
+[2020.03.11-03.10.14:360][174]Cmd: DELETE
+[2020.03.11-03.10.14:361][174]Cmd: ACTOR DELETE
+[2020.03.11-03.10.14:363][174]LogEditorActor: Deleted Actor: AudioTriggers_C
+[2020.03.11-03.10.14:391][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.03.11-03.10.14:397][174]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.03.11-03.10.15:143][263]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers2)
+[2020.03.11-03.10.24:375][356]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.11-03.10.24:387][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.11-03.10.24:387][356]PIE: New page: PIE session: Solitary (Mar 10, 2020, 1:10:24 PM)
+[2020.03.11-03.10.24:388][356]LogPlayLevel: Creating play world package: /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-03.10.24:392][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004003s)
+[2020.03.11-03.10.24:392][356]LogAIModule: Creating AISystem for world Solitary
+[2020.03.11-03.10.24:392][356]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2020.03.11-03.10.24:392][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Solitary/Maps/Solitary.Solitary to /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary (0.004898s)
+[2020.03.11-03.10.24:420][356]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.03.11-03.10.24:426][356]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.11-03.10.24:426][356]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.11-03.10.24:426][356]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.11-03.10.24:426][356]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.11-03.10.24:426][356]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.11-03.10.24:426][356]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.11-03.10.24:426][356]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.11-03.10.24:426][356]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.11-03.10.24:427][356]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.11-03.10.24:427][356]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.11-03.10.24:451][356]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.11-03.10.24:451][356]LogAudioMixer: Display: Name: Speakers (2- Realtek High Definition Audio)
+[2020.03.11-03.10.24:451][356]LogAudioMixer: Display: Is Default: Yes
+[2020.03.11-03.10.24:451][356]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.11-03.10.24:451][356]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.11-03.10.24:451][356]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.11-03.10.24:451][356]LogAudioMixer: Display: Channel Order:
+[2020.03.11-03.10.24:451][356]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.11-03.10.24:452][356]LogAudioMixer: Display: 1: FrontRight
+[2020.03.11-03.10.24:456][356]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek High Definition Audio)
+[2020.03.11-03.10.24:457][356]LogInit: FAudioDevice initialized.
+[2020.03.11-03.10.24:465][356]LogLoad: Game class is 'BP_GameMode_Solitary_C'
+[2020.03.11-03.10.24:467][356]LogWorld: Bringing World /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary up for play (max tick rate 0) at 2020.03.10-20.10.24
+[2020.03.11-03.10.24:467][356]LogWorld: Bringing up level for play took: 0.002362
+[2020.03.11-03.10.24:468][356]LogOnline: OSS: Creating online subsystem instance for: :Context_173
+[2020.03.11-03.10.24:469][356]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-03.10.24:469][356]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-03.10.24:469][356]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-03.10.24:469][356]LogLevel: Warning: Failed to find streaming level object associated with 'Map_Pause'
+[2020.03.11-03.10.24:469][356]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-03.10.24:469][356]PIE: Play in editor start time for /Game/Solitary/Maps/UEDPIE_0_Solitary 0.888
+[2020.03.11-03.10.24:470][356]LogLevelStreaming: Display: FStreamLevelAction::UpdateOperation() LevelName Map_Pause, bIsLevelValid 0
+[2020.03.11-03.10.27:900][767]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-03.10.27:916][767]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.11-03.10.27:936][767]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.11-03.10.27:936][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-03.10.27:936][767]LogWorld: BeginTearingDown for /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-03.10.27:936][767]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-03.10.27:936][767]LogWorld: UWorld::CleanupWorld for Solitary, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-03.10.27:937][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-03.10.27:943][767]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.11-03.10.27:950][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-03.10.27:975][767]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-03.10.27:977][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-03.10.27:982][767]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.03.11-03.10.28:001][768]LogPlayLevel: Display: Destroying online subsystem :Context_173
+[2020.03.11-03.10.54:656][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.03.11-03.10.54:693][227]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Solitary_Auto241F720BE40BD034F1FDBFA90A410EDD0.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Maps/Solitary_Auto2.umap'
+[2020.03.11-03.10.54:695][227]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Solitary/Maps/Solitary' took 0.066
+[2020.03.11-03.10.54:695][227]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.066
+[2020.03.11-03.11.16:370][297]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers2)
+[2020.03.11-03.11.19:009][596]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Solitary/Triggers/AudioTriggers.AudioTriggers
+[2020.03.11-03.12.14:074][797]Cmd: DELETE
+[2020.03.11-03.12.14:074][797]Cmd: ACTOR DELETE
+[2020.03.11-03.12.14:076][797]LogEditorActor: Deleted Actor: AudioTriggers_C
+[2020.03.11-03.12.14:109][797]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.03.11-03.12.14:121][797]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2020.03.11-03.13.01:990][389]Cmd: TRANSACTION UNDO
+[2020.03.11-03.13.01:990][389]LogEditorTransaction: Undo Edit Sound
+[2020.03.11-03.13.06:755][904]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers)
+[2020.03.11-03.13.14:381][804]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.11-03.13.14:401][804]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.11-03.13.14:401][804]PIE: New page: PIE session: Solitary (Mar 10, 2020, 1:13:14 PM)
+[2020.03.11-03.13.14:401][804]LogPlayLevel: Creating play world package: /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-03.13.14:405][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004039s)
+[2020.03.11-03.13.14:406][804]LogAIModule: Creating AISystem for world Solitary
+[2020.03.11-03.13.14:406][804]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2020.03.11-03.13.14:406][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Solitary/Maps/Solitary.Solitary to /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary (0.004891s)
+[2020.03.11-03.13.14:435][804]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.03.11-03.13.14:448][804]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.11-03.13.14:448][804]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.11-03.13.14:448][804]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.11-03.13.14:448][804]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.11-03.13.14:448][804]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.11-03.13.14:448][804]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.11-03.13.14:448][804]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.11-03.13.14:448][804]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.11-03.13.14:449][804]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.11-03.13.14:449][804]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.11-03.13.14:473][804]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.11-03.13.14:473][804]LogAudioMixer: Display: Name: Speakers (2- Realtek High Definition Audio)
+[2020.03.11-03.13.14:473][804]LogAudioMixer: Display: Is Default: Yes
+[2020.03.11-03.13.14:473][804]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.11-03.13.14:474][804]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.11-03.13.14:474][804]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.11-03.13.14:474][804]LogAudioMixer: Display: Channel Order:
+[2020.03.11-03.13.14:474][804]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.11-03.13.14:474][804]LogAudioMixer: Display: 1: FrontRight
+[2020.03.11-03.13.14:478][804]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek High Definition Audio)
+[2020.03.11-03.13.14:479][804]LogInit: FAudioDevice initialized.
+[2020.03.11-03.13.14:489][804]LogLoad: Game class is 'BP_GameMode_Solitary_C'
+[2020.03.11-03.13.14:492][804]LogWorld: Bringing World /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary up for play (max tick rate 0) at 2020.03.10-20.13.14
+[2020.03.11-03.13.14:492][804]LogWorld: Bringing up level for play took: 0.002453
+[2020.03.11-03.13.14:492][804]LogOnline: OSS: Creating online subsystem instance for: :Context_175
+[2020.03.11-03.13.14:493][804]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-03.13.14:493][804]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-03.13.14:493][804]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-03.13.14:494][804]LogLevel: Warning: Failed to find streaming level object associated with 'Map_Pause'
+[2020.03.11-03.13.14:494][804]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-03.13.14:494][804]PIE: Play in editor start time for /Game/Solitary/Maps/UEDPIE_0_Solitary 0.934
+[2020.03.11-03.13.14:494][804]LogLevelStreaming: Display: FStreamLevelAction::UpdateOperation() LevelName Map_Pause, bIsLevelValid 0
+[2020.03.11-03.13.34:181][852]LogSlate: Window 'AudioTriggers' being destroyed
+[2020.03.11-03.13.34:185][852]LogSlate: Window 'AudioTriggers' being destroyed
+[2020.03.11-03.13.34:185][852]LogWorld: UWorld::CleanupWorld for World_90, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-03.13.34:186][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-03.13.52:135][998]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-03.13.52:151][998]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.11-03.13.52:171][998]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.11-03.13.52:171][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-03.13.52:171][998]LogWorld: BeginTearingDown for /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-03.13.52:171][998]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-03.13.52:171][998]LogWorld: UWorld::CleanupWorld for Solitary, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-03.13.52:172][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-03.13.52:177][998]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.11-03.13.52:184][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-03.13.52:211][998]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-03.13.52:214][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-03.13.52:220][998]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.03.11-03.13.52:238][999]LogPlayLevel: Display: Destroying online subsystem :Context_175
+[2020.03.11-03.13.54:290][243]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers)
+[2020.03.11-03.14.08:312][898]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers)
+[2020.03.11-03.14.09:848][ 77]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.11-03.14.09:861][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.11-03.14.09:861][ 77]PIE: New page: PIE session: Solitary (Mar 10, 2020, 1:14:09 PM)
+[2020.03.11-03.14.09:861][ 77]LogPlayLevel: Creating play world package: /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-03.14.09:865][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003996s)
+[2020.03.11-03.14.09:866][ 77]LogAIModule: Creating AISystem for world Solitary
+[2020.03.11-03.14.09:866][ 77]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2020.03.11-03.14.09:866][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Solitary/Maps/Solitary.Solitary to /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary (0.004817s)
+[2020.03.11-03.14.09:892][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.03.11-03.14.09:901][ 77]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.11-03.14.09:901][ 77]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.11-03.14.09:901][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.11-03.14.09:901][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.11-03.14.09:901][ 77]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.11-03.14.09:901][ 77]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.11-03.14.09:901][ 77]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.11-03.14.09:901][ 77]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.11-03.14.09:902][ 77]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.11-03.14.09:902][ 77]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.11-03.14.09:927][ 77]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.11-03.14.09:927][ 77]LogAudioMixer: Display: Name: Speakers (2- Realtek High Definition Audio)
+[2020.03.11-03.14.09:927][ 77]LogAudioMixer: Display: Is Default: Yes
+[2020.03.11-03.14.09:927][ 77]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.11-03.14.09:927][ 77]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.11-03.14.09:927][ 77]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.11-03.14.09:927][ 77]LogAudioMixer: Display: Channel Order:
+[2020.03.11-03.14.09:927][ 77]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.11-03.14.09:927][ 77]LogAudioMixer: Display: 1: FrontRight
+[2020.03.11-03.14.09:931][ 77]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek High Definition Audio)
+[2020.03.11-03.14.09:932][ 77]LogInit: FAudioDevice initialized.
+[2020.03.11-03.14.09:941][ 77]LogLoad: Game class is 'BP_GameMode_Solitary_C'
+[2020.03.11-03.14.09:944][ 77]LogWorld: Bringing World /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary up for play (max tick rate 0) at 2020.03.10-20.14.09
+[2020.03.11-03.14.09:944][ 77]LogWorld: Bringing up level for play took: 0.002394
+[2020.03.11-03.14.09:944][ 77]LogOnline: OSS: Creating online subsystem instance for: :Context_176
+[2020.03.11-03.14.09:945][ 77]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-03.14.09:945][ 77]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-03.14.09:945][ 77]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-03.14.09:946][ 77]LogLevel: Warning: Failed to find streaming level object associated with 'Map_Pause'
+[2020.03.11-03.14.09:946][ 77]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-03.14.09:946][ 77]PIE: Play in editor start time for /Game/Solitary/Maps/UEDPIE_0_Solitary 0.392
+[2020.03.11-03.14.09:946][ 77]LogLevelStreaming: Display: FStreamLevelAction::UpdateOperation() LevelName Map_Pause, bIsLevelValid 0
+[2020.03.11-03.14.25:692][963]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-03.14.25:696][963]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.11-03.14.25:716][963]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.11-03.14.25:717][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-03.14.25:717][963]LogWorld: BeginTearingDown for /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-03.14.25:717][963]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-03.14.25:717][963]LogWorld: UWorld::CleanupWorld for Solitary, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-03.14.25:718][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-03.14.25:725][963]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.11-03.14.25:732][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-03.14.25:759][963]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-03.14.25:761][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-03.14.25:766][963]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.03.11-03.14.25:792][965]LogPlayLevel: Display: Destroying online subsystem :Context_176
+[2020.03.11-03.14.28:876][330]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers)
+[2020.03.11-03.14.52:832][171]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Solitary/Audio/13712__acclivity__clockticking_Cue.13712__acclivity__clockticking_Cue
+[2020.03.11-03.14.59:230][903]LogSlate: Window '13712__acclivity__clockticking_Cue' being destroyed
+[2020.03.11-03.15.22:105][350]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (AudioTriggers)
+[2020.03.11-03.15.30:459][335]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Solitary/Audio/13712__acclivity__clockticking_Cue.13712__acclivity__clockticking_Cue
+[2020.03.11-03.16.51:990][673]Cmd: TRANSACTION UNDO
+[2020.03.11-03.16.51:990][673]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.11-03.16.52:437][696]Cmd: TRANSACTION UNDO
+[2020.03.11-03.16.52:437][696]LogEditorTransaction: Undo Rename Actor
+[2020.03.11-03.17.02:278][834]Cmd: EDIT COPY
+[2020.03.11-03.17.49:758][190]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.11-03.17.49:771][190]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.11-03.17.49:771][190]PIE: New page: PIE session: Solitary (Mar 10, 2020, 1:17:49 PM)
+[2020.03.11-03.17.49:771][190]LogPlayLevel: Creating play world package: /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-03.17.49:776][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004233s)
+[2020.03.11-03.17.49:776][190]LogAIModule: Creating AISystem for world Solitary
+[2020.03.11-03.17.49:776][190]LogPlayLevel: PIE: World Init took: (0.000806s)
+[2020.03.11-03.17.49:777][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Solitary/Maps/Solitary.Solitary to /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary (0.005141s)
+[2020.03.11-03.17.49:812][190]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.03.11-03.17.49:834][190]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.11-03.17.49:834][190]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.11-03.17.49:834][190]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.11-03.17.49:834][190]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.11-03.17.49:834][190]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.11-03.17.49:834][190]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.11-03.17.49:834][190]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.11-03.17.49:834][190]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.11-03.17.49:834][190]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.11-03.17.49:834][190]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.11-03.17.49:860][190]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.11-03.17.49:860][190]LogAudioMixer: Display: Name: Speakers (2- Realtek High Definition Audio)
+[2020.03.11-03.17.49:860][190]LogAudioMixer: Display: Is Default: Yes
+[2020.03.11-03.17.49:860][190]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.11-03.17.49:860][190]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.11-03.17.49:860][190]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.11-03.17.49:860][190]LogAudioMixer: Display: Channel Order:
+[2020.03.11-03.17.49:860][190]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.11-03.17.49:860][190]LogAudioMixer: Display: 1: FrontRight
+[2020.03.11-03.17.49:864][190]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek High Definition Audio)
+[2020.03.11-03.17.49:865][190]LogInit: FAudioDevice initialized.
+[2020.03.11-03.17.49:874][190]LogLoad: Game class is 'BP_GameMode_Solitary_C'
+[2020.03.11-03.17.49:877][190]LogWorld: Bringing World /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary up for play (max tick rate 0) at 2020.03.10-20.17.49
+[2020.03.11-03.17.49:877][190]LogWorld: Bringing up level for play took: 0.002401
+[2020.03.11-03.17.49:877][190]LogOnline: OSS: Creating online subsystem instance for: :Context_177
+[2020.03.11-03.17.49:878][190]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-03.17.49:878][190]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-03.17.49:878][190]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-03.17.49:879][190]LogLevel: Warning: Failed to find streaming level object associated with 'Map_Pause'
+[2020.03.11-03.17.49:879][190]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-03.17.49:879][190]PIE: Play in editor start time for /Game/Solitary/Maps/UEDPIE_0_Solitary 0.353
+[2020.03.11-03.17.49:879][190]LogLevelStreaming: Display: FStreamLevelAction::UpdateOperation() LevelName Map_Pause, bIsLevelValid 0
+[2020.03.11-03.17.54:469][740]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-03.17.54:471][740]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.11-03.17.54:491][740]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.11-03.17.54:491][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-03.17.54:491][740]LogWorld: BeginTearingDown for /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-03.17.54:491][740]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-03.17.54:491][740]LogWorld: UWorld::CleanupWorld for Solitary, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-03.17.54:492][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-03.17.54:497][740]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.11-03.17.54:503][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-03.17.54:532][740]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-03.17.54:534][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-03.17.54:539][740]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.03.11-03.17.54:582][742]LogPlayLevel: Display: Destroying online subsystem :Context_177
+[2020.03.11-03.17.55:590][852]LogEditorViewport: Clicking on Actor (LMB): AudioTriggers_C (silence)
+[2020.03.11-03.18.09:524][459]Cmd: DELETE
+[2020.03.11-03.18.09:524][459]Cmd: ACTOR DELETE
+[2020.03.11-03.18.09:527][459]LogEditorActor: Deleted Actor: AudioTriggers_C
+[2020.03.11-03.18.09:555][459]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.03.11-03.18.09:562][459]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.03.11-03.22.10:931][784]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Ultimate i5\Desktop\footsteps.wav)
+[2020.03.11-03.22.11:058][784]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave footsteps...
+[2020.03.11-03.22.11:059][784]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Solitary/Audio/footsteps.footsteps will be modified from 40 to 40.
+[2020.03.11-03.22.11:246][784]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2950372 while cooking SoundWave /Game/Solitary/Audio/footsteps.footsteps.
+[2020.03.11-03.23.45:700][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Solitary/Maps/Solitary" FILE="C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Content/Solitary/Maps/Solitary.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.11-03.23.45:733][789]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.03.11-03.23.45:790][789]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/SolitaryF85B3CE7401C8E3BAF2F0BA804D3FE5E.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Content/Solitary/Maps/Solitary.umap'
+[2020.03.11-03.23.45:835][789]AssetCheck: New page: Asset Save: Solitary
+[2020.03.11-03.23.45:835][789]LogContentValidation: Display: Validating World /Game/Solitary/Maps/Solitary.Solitary
+[2020.03.11-03.23.52:098][522]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.11-03.23.52:110][522]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.11-03.23.52:110][522]PIE: New page: PIE session: Solitary (Mar 10, 2020, 1:23:52 PM)
+[2020.03.11-03.23.52:111][522]LogPlayLevel: Creating play world package: /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-03.23.52:115][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004052s)
+[2020.03.11-03.23.52:115][522]LogAIModule: Creating AISystem for world Solitary
+[2020.03.11-03.23.52:115][522]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2020.03.11-03.23.52:115][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Solitary/Maps/Solitary.Solitary to /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary (0.004917s)
+[2020.03.11-03.23.52:144][522]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.03.11-03.23.52:149][522]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.11-03.23.52:149][522]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.11-03.23.52:149][522]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.11-03.23.52:149][522]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.11-03.23.52:149][522]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.11-03.23.52:149][522]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.11-03.23.52:149][522]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.11-03.23.52:149][522]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.11-03.23.52:149][522]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.11-03.23.52:149][522]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.11-03.23.52:174][522]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.11-03.23.52:174][522]LogAudioMixer: Display: Name: Speakers (2- Realtek High Definition Audio)
+[2020.03.11-03.23.52:174][522]LogAudioMixer: Display: Is Default: Yes
+[2020.03.11-03.23.52:174][522]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.11-03.23.52:174][522]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.11-03.23.52:174][522]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.11-03.23.52:174][522]LogAudioMixer: Display: Channel Order:
+[2020.03.11-03.23.52:174][522]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.11-03.23.52:174][522]LogAudioMixer: Display: 1: FrontRight
+[2020.03.11-03.23.52:179][522]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek High Definition Audio)
+[2020.03.11-03.23.52:180][522]LogInit: FAudioDevice initialized.
+[2020.03.11-03.23.52:188][522]LogLoad: Game class is 'BP_GameMode_Solitary_C'
+[2020.03.11-03.23.52:191][522]LogWorld: Bringing World /Game/Solitary/Maps/UEDPIE_0_Solitary.Solitary up for play (max tick rate 0) at 2020.03.10-20.23.52
+[2020.03.11-03.23.52:191][522]LogWorld: Bringing up level for play took: 0.002382
+[2020.03.11-03.23.52:191][522]LogOnline: OSS: Creating online subsystem instance for: :Context_178
+[2020.03.11-03.23.52:192][522]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-03.23.52:192][522]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.11-03.23.52:192][522]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-03.23.52:193][522]LogLevel: Warning: Failed to find streaming level object associated with 'Map_Pause'
+[2020.03.11-03.23.52:193][522]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.11-03.23.52:193][522]PIE: Play in editor start time for /Game/Solitary/Maps/UEDPIE_0_Solitary 0.711
+[2020.03.11-03.23.52:193][522]LogLevelStreaming: Display: FStreamLevelAction::UpdateOperation() LevelName Map_Pause, bIsLevelValid 0
+[2020.03.11-03.23.56:318][ 16]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-03.23.56:336][ 16]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.11-03.23.56:366][ 16]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.11-03.23.56:367][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-03.23.56:367][ 16]LogWorld: BeginTearingDown for /Game/Solitary/Maps/UEDPIE_0_Solitary
+[2020.03.11-03.23.56:367][ 16]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-03.23.56:367][ 16]LogWorld: UWorld::CleanupWorld for Solitary, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-03.23.56:367][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-03.23.56:376][ 16]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.11-03.23.56:382][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-03.23.56:409][ 16]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-03.23.56:412][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-03.23.56:417][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.03.11-03.23.56:435][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_178
+[2020.03.11-03.24.34:230][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.03.11-03.24.35:604][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Solitary/Maps/Solitary" FILE="C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Content/Solitary/Maps/Solitary.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.11-03.24.35:632][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.03.11-03.24.35:666][667]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Solitary0ECBE23A48F6945CCABD5FAF9F7C97AC.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Content/Solitary/Maps/Solitary.umap'
+[2020.03.11-03.24.35:703][667]AssetCheck: New page: Asset Save: Solitary
+[2020.03.11-03.24.35:703][667]LogContentValidation: Display: Validating World /Game/Solitary/Maps/Solitary.Solitary
