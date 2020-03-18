@@ -3059,3 +3059,800 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.17-23.04.57:074][133]LogContentValidation: Display: Validating AnimSequence /Game/Solitary/Animations/TheHole_Note8.TheHole_Note8
 [2020.03.17-23.04.57:074][133]LogContentValidation: Display: Validating AnimSequence /Game/Solitary/Animations/TheHole_Note9.TheHole_Note9
 [2020.03.17-23.04.57:074][133]LogContentValidation: Display: Validating LevelSequence /Game/testsequence.testsequence
+[2020.03.17-23.18.49:005][815]LogHttp: Warning: 000002469156B240: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6EAF3CF0-4D07-94D2-1264-71B0E41CA115%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=89da22424c7c65a6725b928ae637f89d%7Cc5272c98836d4eddb76bcede0d291b68%7Ccfccf20b-dc38-43ba-8ee0-92b500786aea&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.17-23.18.49:005][815]LogHttp: Warning: 000002469156B240: request failed, libcurl error: 0 (No error)
+[2020.03.17-23.18.49:005][815]LogHttp: Warning: 000002469156B240: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x246c9a3ff70 [can pipeline])
+[2020.03.17-23.18.49:005][815]LogHttp: Warning: 000002469156B240: libcurl info message cache 1 (Re-using existing connection! (#31) with host datarouter.ol.epicgames.com)
+[2020.03.17-23.18.49:005][815]LogHttp: Warning: 000002469156B240: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.87.92.96) port 443 (#31))
+[2020.03.17-23.18.49:005][815]LogHttp: Warning: 000002469156B240: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.03.17-23.18.49:005][815]LogHttp: Warning: 000002469156B240: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.03.17-23.18.49:005][815]LogHttp: Warning: 000002469156B240: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.03.17-23.18.49:005][815]LogHttp: Warning: 000002469156B240: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.03.17-23.18.49:005][815]LogHttp: Warning: 000002469156B240: libcurl info message cache 7 (Closing connection 31)
+[2020.03.17-23.18.49:005][815]LogHttp: Warning: 000002469156B240: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.03.17-23.18.49:340][816]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6EAF3CF0-4D07-94D2-1264-71B0E41CA115%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=89da22424c7c65a6725b928ae637f89d%7Cc5272c98836d4eddb76bcede0d291b68%7Ccfccf20b-dc38-43ba-8ee0-92b500786aea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.17-23.20.49:796][176]LogHttp: Warning: 000002469156A200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6EAF3CF0-4D07-94D2-1264-71B0E41CA115%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=89da22424c7c65a6725b928ae637f89d%7Cc5272c98836d4eddb76bcede0d291b68%7Ccfccf20b-dc38-43ba-8ee0-92b500786aea&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.17-23.20.49:796][176]LogHttp: Warning: 000002469156A200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.03.17-23.20.49:796][176]LogHttp: Warning: 000002469156A200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.03.17-23.20.49:796][176]LogHttp: Warning: 000002469156A200: libcurl info message cache 1 (Closing connection 32)
+[2020.03.17-23.20.49:796][176]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6EAF3CF0-4D07-94D2-1264-71B0E41CA115%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=89da22424c7c65a6725b928ae637f89d%7Cc5272c98836d4eddb76bcede0d291b68%7Ccfccf20b-dc38-43ba-8ee0-92b500786aea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.17-23.22.50:377][537]LogHttp: Warning: 000002469156A200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6EAF3CF0-4D07-94D2-1264-71B0E41CA115%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=89da22424c7c65a6725b928ae637f89d%7Cc5272c98836d4eddb76bcede0d291b68%7Ccfccf20b-dc38-43ba-8ee0-92b500786aea&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.17-23.22.50:377][537]LogHttp: Warning: 000002469156A200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.03.17-23.22.50:377][537]LogHttp: Warning: 000002469156A200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.03.17-23.22.50:377][537]LogHttp: Warning: 000002469156A200: libcurl info message cache 1 (Closing connection 33)
+[2020.03.17-23.22.50:711][538]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6EAF3CF0-4D07-94D2-1264-71B0E41CA115%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=89da22424c7c65a6725b928ae637f89d%7Cc5272c98836d4eddb76bcede0d291b68%7Ccfccf20b-dc38-43ba-8ee0-92b500786aea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6EAF3CF0-4D07-94D2-1264-71B0E41CA115%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=89da22424c7c65a6725b928ae637f89d%7Cc5272c98836d4eddb76bcede0d291b68%7Ccfccf20b-dc38-43ba-8ee0-92b500786aea&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 0 (  Trying 34.232.133.254...)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 1 (TCP_NODELAY set)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 2 (connect to 34.232.133.254 port 443 failed: Timed out)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 3 (  Trying 52.5.92.97...)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 4 (TCP_NODELAY set)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 5 (After 17914ms connect time, move on!)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 6 (connect to 52.5.92.97 port 443 failed: Timed out)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 7 (  Trying 3.226.130.160...)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 8 (TCP_NODELAY set)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 9 (After 8953ms connect time, move on!)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 10 (connect to 3.226.130.160 port 443 failed: Timed out)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 11 (  Trying 52.45.208.102...)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 12 (TCP_NODELAY set)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 13 (After 4476ms connect time, move on!)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 14 (connect to 52.45.208.102 port 443 failed: Timed out)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 15 (  Trying 52.71.133.205...)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 16 (TCP_NODELAY set)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 17 (After 2234ms connect time, move on!)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 18 (connect to 52.71.133.205 port 443 failed: Timed out)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 19 (  Trying 34.226.225.83...)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 20 (TCP_NODELAY set)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 21 (After 1117ms connect time, move on!)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 22 (connect to 34.226.225.83 port 443 failed: Timed out)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 23 (  Trying 52.7.223.84...)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 24 (TCP_NODELAY set)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 25 (After 554ms connect time, move on!)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 26 (connect to 52.7.223.84 port 443 failed: Timed out)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 27 (  Trying 35.171.73.202...)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 28 (TCP_NODELAY set)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 29 (After 273ms connect time, move on!)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 30 (connect to 35.171.73.202 port 443 failed: Timed out)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 31 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2020.03.17-23.25.50:946][ 78]LogHttp: Warning: 000002469156A200: libcurl info message cache 32 (Closing connection 34)
+[2020.03.17-23.25.50:947][ 78]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6EAF3CF0-4D07-94D2-1264-71B0E41CA115%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=89da22424c7c65a6725b928ae637f89d%7Cc5272c98836d4eddb76bcede0d291b68%7Ccfccf20b-dc38-43ba-8ee0-92b500786aea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.17-23.27.51:451][439]LogHttp: Warning: 000002469156A200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6EAF3CF0-4D07-94D2-1264-71B0E41CA115%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=89da22424c7c65a6725b928ae637f89d%7Cc5272c98836d4eddb76bcede0d291b68%7Ccfccf20b-dc38-43ba-8ee0-92b500786aea&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.17-23.27.51:451][439]LogHttp: Warning: 000002469156A200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.03.17-23.27.51:451][439]LogHttp: Warning: 000002469156A200: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.03.17-23.27.51:451][439]LogHttp: Warning: 000002469156A200: libcurl info message cache 1 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.03.17-23.27.51:451][439]LogHttp: Warning: 000002469156A200: libcurl info message cache 2 (Closing connection 35)
+[2020.03.17-23.27.51:783][440]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6EAF3CF0-4D07-94D2-1264-71B0E41CA115%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=89da22424c7c65a6725b928ae637f89d%7Cc5272c98836d4eddb76bcede0d291b68%7Ccfccf20b-dc38-43ba-8ee0-92b500786aea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.17-23.29.52:303][801]LogHttp: Warning: 000002469156A200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6EAF3CF0-4D07-94D2-1264-71B0E41CA115%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=89da22424c7c65a6725b928ae637f89d%7Cc5272c98836d4eddb76bcede0d291b68%7Ccfccf20b-dc38-43ba-8ee0-92b500786aea&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.17-23.29.52:303][801]LogHttp: Warning: 000002469156A200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.03.17-23.29.52:303][801]LogHttp: Warning: 000002469156A200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.03.17-23.29.52:303][801]LogHttp: Warning: 000002469156A200: libcurl info message cache 1 (Closing connection 36)
+[2020.03.17-23.29.52:635][802]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6EAF3CF0-4D07-94D2-1264-71B0E41CA115%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=89da22424c7c65a6725b928ae637f89d%7Cc5272c98836d4eddb76bcede0d291b68%7Ccfccf20b-dc38-43ba-8ee0-92b500786aea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.17-23.31.53:233][163]LogHttp: Warning: 000002469156A200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6EAF3CF0-4D07-94D2-1264-71B0E41CA115%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=89da22424c7c65a6725b928ae637f89d%7Cc5272c98836d4eddb76bcede0d291b68%7Ccfccf20b-dc38-43ba-8ee0-92b500786aea&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.17-23.31.53:233][163]LogHttp: Warning: 000002469156A200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.03.17-23.31.53:233][163]LogHttp: Warning: 000002469156A200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.03.17-23.31.53:233][163]LogHttp: Warning: 000002469156A200: libcurl info message cache 1 (Closing connection 37)
+[2020.03.17-23.31.53:566][164]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6EAF3CF0-4D07-94D2-1264-71B0E41CA115%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=89da22424c7c65a6725b928ae637f89d%7Cc5272c98836d4eddb76bcede0d291b68%7Ccfccf20b-dc38-43ba-8ee0-92b500786aea&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.18-01.46.17:050][346]LogUObjectHash: Compacting FUObjectHashTables data took   8.04ms
+[2020.03.18-01.46.17:062][346]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Solitary/Maps/Solitary' took 0.047
+[2020.03.18-01.46.17:062][346]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/testsequence] ([1] browsable assets)...
+[2020.03.18-01.46.17:062][346]OBJ SavePackage: Finished generating thumbnails for package [/Game/testsequence]
+[2020.03.18-01.46.17:062][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/testsequence" FILE="C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/testsequence_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.03.18-01.46.17:083][346]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/testsequence_Auto4E85AFF5B419E1121C840A1AD5195D746.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/testsequence_Auto4.uasset'
+[2020.03.18-01.46.17:084][346]LogFileHelpers: Auto-saving content packages took 0.022
+[2020.03.18-01.49.08:961][227]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Ultimate i5/Desktop/note 12.fbx)
+[2020.03.18-01.49.08:974][227]LogFbx: Loading FBX Scene from C:/Users/Ultimate i5/Desktop/note 12.fbx
+[2020.03.18-01.49.09:017][227]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.18-01.49.13:514][227]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(0) root
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(1) pelvis
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(2) spine_01
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(3) spine_02
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(4) spine_03
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(5) clavicle_l
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(6) upperarm_l
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(7) lowerarm_l
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(8) hand_l
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(9) index_01_l
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(10) index_02_l
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(11) index_03_l
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(12) middle_01_l
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(13) middle_02_l
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(14) middle_03_l
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(15) pinky_01_l
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(16) pinky_02_l
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(17) pinky_03_l
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(18) ring_01_l
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(19) ring_02_l
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(20) ring_03_l
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(21) thumb_01_l
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(22) thumb_02_l
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(23) thumb_03_l
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(26) clavicle_r
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(27) upperarm_r
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(28) lowerarm_r
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(29) hand_r
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(30) index_01_r
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(31) index_02_r
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(32) index_03_r
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(33) middle_01_r
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(34) middle_02_r
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(35) middle_03_r
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(36) pinky_01_r
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(37) pinky_02_r
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(38) pinky_03_r
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(39) ring_01_r
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(40) ring_02_r
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(41) ring_03_r
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(42) thumb_01_r
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(43) thumb_02_r
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(44) thumb_03_r
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(47) neck_01
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(48) head
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(49) thigh_l
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(50) calf_l
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(52) foot_l
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(53) ball_l
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(55) thigh_r
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(56) calf_r
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(58) foot_r
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(59) ball_r
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(61) ik_foot_root
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(62) ik_foot_l
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(63) ik_foot_r
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(64) ik_hand_root
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(65) ik_hand_gun
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(66) ik_hand_l
+[2020.03.18-01.49.13:541][227]LogFbx: SortedLinks :(67) ik_hand_r
+[2020.03.18-01.49.13:542][227]LogFbx: Parsing AnimStack Take 001
+[2020.03.18-01.49.13:543][227]LogLinker: Failed to load '/Game/Solitary/Animations/note_12': Can't find file.
+[2020.03.18-01.49.13:544][227]LogLinker: Failed to load '/Game/Solitary/Animations/note_12': Can't find file.
+[2020.03.18-01.49.14:403][227]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Solitary/Animations/note_12.note_12
+[2020.03.18-01.49.14:403][227]LogAnimationCompression: Recompressing (AnimSequence /Game/Solitary/Animations/note_12.note_12) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.18-01.49.14:485][227]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:/Users/Ultimate i5/Desktop/note 15.fbx)
+[2020.03.18-01.49.14:504][227]LogFbx: Loading FBX Scene from C:/Users/Ultimate i5/Desktop/note 15.fbx
+[2020.03.18-01.49.14:535][227]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.18-01.49.19:307][227]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.03.18-01.49.19:330][227]LogFbx: SortedLinks :(0) root
+[2020.03.18-01.49.19:330][227]LogFbx: SortedLinks :(1) pelvis
+[2020.03.18-01.49.19:330][227]LogFbx: SortedLinks :(2) spine_01
+[2020.03.18-01.49.19:330][227]LogFbx: SortedLinks :(3) spine_02
+[2020.03.18-01.49.19:330][227]LogFbx: SortedLinks :(4) spine_03
+[2020.03.18-01.49.19:330][227]LogFbx: SortedLinks :(5) clavicle_l
+[2020.03.18-01.49.19:330][227]LogFbx: SortedLinks :(6) upperarm_l
+[2020.03.18-01.49.19:330][227]LogFbx: SortedLinks :(7) lowerarm_l
+[2020.03.18-01.49.19:330][227]LogFbx: SortedLinks :(8) hand_l
+[2020.03.18-01.49.19:330][227]LogFbx: SortedLinks :(9) index_01_l
+[2020.03.18-01.49.19:330][227]LogFbx: SortedLinks :(10) index_02_l
+[2020.03.18-01.49.19:330][227]LogFbx: SortedLinks :(11) index_03_l
+[2020.03.18-01.49.19:330][227]LogFbx: SortedLinks :(12) middle_01_l
+[2020.03.18-01.49.19:330][227]LogFbx: SortedLinks :(13) middle_02_l
+[2020.03.18-01.49.19:330][227]LogFbx: SortedLinks :(14) middle_03_l
+[2020.03.18-01.49.19:330][227]LogFbx: SortedLinks :(15) pinky_01_l
+[2020.03.18-01.49.19:330][227]LogFbx: SortedLinks :(16) pinky_02_l
+[2020.03.18-01.49.19:330][227]LogFbx: SortedLinks :(17) pinky_03_l
+[2020.03.18-01.49.19:330][227]LogFbx: SortedLinks :(18) ring_01_l
+[2020.03.18-01.49.19:330][227]LogFbx: SortedLinks :(19) ring_02_l
+[2020.03.18-01.49.19:330][227]LogFbx: SortedLinks :(20) ring_03_l
+[2020.03.18-01.49.19:330][227]LogFbx: SortedLinks :(21) thumb_01_l
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(22) thumb_02_l
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(23) thumb_03_l
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(26) clavicle_r
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(27) upperarm_r
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(28) lowerarm_r
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(29) hand_r
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(30) index_01_r
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(31) index_02_r
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(32) index_03_r
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(33) middle_01_r
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(34) middle_02_r
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(35) middle_03_r
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(36) pinky_01_r
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(37) pinky_02_r
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(38) pinky_03_r
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(39) ring_01_r
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(40) ring_02_r
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(41) ring_03_r
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(42) thumb_01_r
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(43) thumb_02_r
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(44) thumb_03_r
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(47) neck_01
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(48) head
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(49) thigh_l
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(50) calf_l
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(52) foot_l
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(53) ball_l
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(55) thigh_r
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(56) calf_r
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(58) foot_r
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(59) ball_r
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(61) ik_foot_root
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(62) ik_foot_l
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(63) ik_foot_r
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(64) ik_hand_root
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(65) ik_hand_gun
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(66) ik_hand_l
+[2020.03.18-01.49.19:331][227]LogFbx: SortedLinks :(67) ik_hand_r
+[2020.03.18-01.49.19:332][227]LogFbx: Parsing AnimStack Take 001
+[2020.03.18-01.49.19:335][227]LogLinker: Failed to load '/Game/Solitary/Animations/note_15': Can't find file.
+[2020.03.18-01.49.19:335][227]LogLinker: Failed to load '/Game/Solitary/Animations/note_15': Can't find file.
+[2020.03.18-01.49.19:802][227]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Solitary/Animations/note_15.note_15
+[2020.03.18-01.49.19:802][227]LogAnimationCompression: Recompressing (AnimSequence /Game/Solitary/Animations/note_15.note_15) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.18-01.49.19:884][227]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:/Users/Ultimate i5/Desktop/TheHole_Note5.fbx)
+[2020.03.18-01.49.19:895][227]LogFbx: Loading FBX Scene from C:/Users/Ultimate i5/Desktop/TheHole_Note5.fbx
+[2020.03.18-01.49.19:936][227]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(0) root
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(1) pelvis
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(2) spine_01
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(3) spine_02
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(4) spine_03
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(5) clavicle_l
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(6) upperarm_l
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(7) lowerarm_l
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(8) hand_l
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(9) index_01_l
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(10) index_02_l
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(11) index_03_l
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(12) middle_01_l
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(13) middle_02_l
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(14) middle_03_l
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(15) pinky_01_l
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(16) pinky_02_l
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(17) pinky_03_l
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(18) ring_01_l
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(19) ring_02_l
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(20) ring_03_l
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(21) thumb_01_l
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(22) thumb_02_l
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(23) thumb_03_l
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(26) clavicle_r
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(27) upperarm_r
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(28) lowerarm_r
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(29) hand_r
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(30) index_01_r
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(31) index_02_r
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(32) index_03_r
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(33) middle_01_r
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(34) middle_02_r
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(35) middle_03_r
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(36) pinky_01_r
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(37) pinky_02_r
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(38) pinky_03_r
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(39) ring_01_r
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(40) ring_02_r
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(41) ring_03_r
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(42) thumb_01_r
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(43) thumb_02_r
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(44) thumb_03_r
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(47) neck_01
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(48) head
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(49) thigh_l
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(50) calf_l
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(52) foot_l
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(53) ball_l
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(55) thigh_r
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(56) calf_r
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(58) foot_r
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(59) ball_r
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(61) ik_foot_root
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(62) ik_foot_l
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(63) ik_foot_r
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(64) ik_hand_root
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(65) ik_hand_gun
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(66) ik_hand_l
+[2020.03.18-01.49.19:943][227]LogFbx: SortedLinks :(67) ik_hand_r
+[2020.03.18-01.49.19:944][227]LogFbx: Parsing AnimStack Take 001
+[2020.03.18-01.49.19:945][227]LogLinker: Failed to load '/Game/Solitary/Animations/TheHole_Note5': Can't find file.
+[2020.03.18-01.49.19:945][227]LogLinker: Failed to load '/Game/Solitary/Animations/TheHole_Note5': Can't find file.
+[2020.03.18-01.49.20:829][227]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Solitary/Animations/TheHole_Note5.TheHole_Note5
+[2020.03.18-01.49.20:829][227]LogAnimationCompression: Recompressing (AnimSequence /Game/Solitary/Animations/TheHole_Note5.TheHole_Note5) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.18-01.49.32:931][375]Cmd: TRANSACTION UNDO
+[2020.03.18-01.49.32:931][375]LogEditorTransaction: Undo Drop Animation On Object
+[2020.03.18-01.49.41:739][293]Cmd: TRANSACTION UNDO
+[2020.03.18-01.49.41:739][293]LogEditorTransaction: Undo Scale Actors
+[2020.03.18-01.49.45:301][685]Cmd: TRANSACTION UNDO
+[2020.03.18-01.49.45:301][685]LogEditorTransaction: Undo Move Actors
+[2020.03.18-01.49.45:646][705]Cmd: TRANSACTION UNDO
+[2020.03.18-01.49.45:646][705]LogEditorTransaction: Undo Create Actors
+[2020.03.18-01.49.56:421][929]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.18-01.50.09:591][483]LogEditorViewport: Clicking on Actor (LMB): ChainAnim_C (ChainAnim2)
+[2020.03.18-01.50.18:457][531]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TheHole_Note9)
+[2020.03.18-01.50.25:822][399]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.18-01.51.15:872][876]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TheHole_Note8)
+[2020.03.18-01.51.19:957][357]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.18-01.51.44:655][138]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TheHole_Note10)
+[2020.03.18-01.51.45:379][220]Cmd: DELETE
+[2020.03.18-01.51.45:379][220]Cmd: ACTOR DELETE
+[2020.03.18-01.51.45:409][220]LogAIModule: Creating AISystem for world Map_Solitary_World
+[2020.03.18-01.51.45:419][220]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2020.03.18-01.51.45:443][220]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.03.18-01.51.45:449][220]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2020.03.18-01.56.17:624][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.03.18-01.56.17:669][754]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Solitary_Auto5E4E3FD4E47C45C3B407087994D434036.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Maps/Solitary_Auto5.umap'
+[2020.03.18-01.56.17:673][754]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Solitary/Maps/Solitary' took 0.073
+[2020.03.18-01.56.17:673][754]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.073
+[2020.03.18-01.56.17:674][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/testsequence] ([1] browsable assets)...
+[2020.03.18-01.56.17:674][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/testsequence]
+[2020.03.18-01.56.17:674][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/testsequence" FILE="C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/testsequence_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.03.18-01.56.17:693][754]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/testsequence_Auto5031B160B400EF52BF385DAA3725B858A.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/testsequence_Auto5.uasset'
+[2020.03.18-01.56.17:694][754]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Solitary/Animations/note_12] ([1] browsable assets)...
+[2020.03.18-01.56.17:704][754]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Solitary/Animations/note_12.note_12]
+[2020.03.18-01.56.17:704][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Solitary/Animations/note_12]
+[2020.03.18-01.56.17:722][754]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/note_12_Auto5DB734D7942FC7BDC6C08978F2E070B7F.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Animations/note_12_Auto5.uasset'
+[2020.03.18-01.56.17:723][754]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Solitary/Animations/note_15] ([1] browsable assets)...
+[2020.03.18-01.56.17:732][754]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Solitary/Animations/note_15.note_15]
+[2020.03.18-01.56.17:732][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Solitary/Animations/note_15]
+[2020.03.18-01.56.17:747][754]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/note_15_Auto57549B4724143579760572EBABFA4F67F.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Animations/note_15_Auto5.uasset'
+[2020.03.18-01.56.17:747][754]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Solitary/Animations/TheHole_Note5] ([1] browsable assets)...
+[2020.03.18-01.56.17:757][754]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Solitary/Animations/TheHole_Note5.TheHole_Note5]
+[2020.03.18-01.56.17:757][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Solitary/Animations/TheHole_Note5]
+[2020.03.18-01.56.17:773][754]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/TheHole_Note5_Auto53A11022D42F239592584C1987B1AAD31.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Animations/TheHole_Note5_Auto5.uasset'
+[2020.03.18-01.56.17:773][754]LogFileHelpers: Auto-saving content packages took 0.100
+[2020.03.18-02.05.07:691][595]Cmd: TRANSACTION UNDO
+[2020.03.18-02.05.07:691][595]LogEditorTransaction: Undo Move Keys or Sections
+[2020.03.18-02.05.08:182][619]Cmd: TRANSACTION UNDO
+[2020.03.18-02.05.08:182][619]LogEditorTransaction: Undo Move Keys or Sections
+[2020.03.18-02.05.08:581][664]Cmd: TRANSACTION UNDO
+[2020.03.18-02.05.08:581][664]LogEditorTransaction: Undo Add Level Visibility Track
+[2020.03.18-02.07.09:230][740]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.03.18-02.07.09:236][740]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Solitary/Maps/Solitary' took 0.030
+[2020.03.18-02.07.09:236][740]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/testsequence] ([1] browsable assets)...
+[2020.03.18-02.07.09:236][740]OBJ SavePackage: Finished generating thumbnails for package [/Game/testsequence]
+[2020.03.18-02.07.09:236][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/testsequence" FILE="C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/testsequence_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2020.03.18-02.07.09:257][740]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/testsequence_Auto6059CE3FA491161F552E099ACA12C6C6A.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/testsequence_Auto6.uasset'
+[2020.03.18-02.07.09:257][740]LogFileHelpers: Auto-saving content packages took 0.022
+[2020.03.18-02.12.07:465][486]SourceControl: fatal: A:/UE_4.22.3/UE_4.24/Engine/Content/Sequencer/Editor: 'A:/UE_4.22.3/UE_4.24/Engine/Content/Sequencer/Editor' is outside repository
+[2020.03.18-02.18.17:946][233]LogEditorViewport: Clicking Background
+[2020.03.18-02.18.18:504][299]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TheHole_Note9)
+[2020.03.18-02.18.28:621][493]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Solitary_Bed_pCube7)
+[2020.03.18-02.19.05:476][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.03.18-02.19.05:625][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Solitary/Maps/Solitary" FILE="C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Content/Solitary/Maps/Solitary.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.18-02.19.05:648][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.03.18-02.19.05:687][ 78]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Solitary5B554BFA43FE75823E3BDDA00F34A5F9.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Content/Solitary/Maps/Solitary.umap'
+[2020.03.18-02.19.05:722][ 78]LogFileHelpers: Saving map 'Solitary' took 0.096
+[2020.03.18-02.19.05:722][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/testsequence" FILE="C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Content/testsequence.uasset" SILENT=true
+[2020.03.18-02.19.05:746][ 78]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/testsequenceA55C521C469674D667E69B822DE361F8.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Content/testsequence.uasset'
+[2020.03.18-02.19.05:752][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Solitary/Animations/note_12" FILE="C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Content/Solitary/Animations/note_12.uasset" SILENT=true
+[2020.03.18-02.19.05:764][ 78]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/note_121733FEE249A5A97D9F8E25897E416C11.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Content/Solitary/Animations/note_12.uasset'
+[2020.03.18-02.19.05:881][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Solitary/Animations/note_15" FILE="C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Content/Solitary/Animations/note_15.uasset" SILENT=true
+[2020.03.18-02.19.05:890][ 78]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/note_15D167B3E942486BE461DF4D9F6ED898D3.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Content/Solitary/Animations/note_15.uasset'
+[2020.03.18-02.19.06:015][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Solitary/Animations/TheHole_Note5" FILE="C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Content/Solitary/Animations/TheHole_Note5.uasset" SILENT=true
+[2020.03.18-02.19.06:025][ 78]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/TheHole_Note56D05C81C407AD0DB6E1070BC2E7F53D5.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Content/Solitary/Animations/TheHole_Note5.uasset'
+[2020.03.18-02.19.06:183][ 78]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.18-02.19.06:183][ 78]LogContentValidation: Display: Validating World /Game/Solitary/Maps/Solitary.Solitary
+[2020.03.18-02.19.06:183][ 78]LogContentValidation: Display: Validating LevelSequence /Game/testsequence.testsequence
+[2020.03.18-02.19.06:183][ 78]LogContentValidation: Display: Validating AnimSequence /Game/Solitary/Animations/note_12.note_12
+[2020.03.18-02.19.06:183][ 78]LogContentValidation: Display: Validating AnimSequence /Game/Solitary/Animations/note_15.note_15
+[2020.03.18-02.19.06:183][ 78]LogContentValidation: Display: Validating AnimSequence /Game/Solitary/Animations/TheHole_Note5.TheHole_Note5
+[2020.03.18-02.19.13:012][885]SourceControl: fatal: A:/UE_4.22.3/UE_4.24/Engine/Content/Sequencer/Editor: 'A:/UE_4.22.3/UE_4.24/Engine/Content/Sequencer/Editor' is outside repository
+[2020.03.18-02.19.43:303][491]SourceControl: fatal: A:/UE_4.22.3/UE_4.24/Engine/Content/Sequencer/Editor: 'A:/UE_4.22.3/UE_4.24/Engine/Content/Sequencer/Editor' is outside repository
+[2020.03.18-02.19.53:542][712]SourceControl: fatal: A:/UE_4.22.3/UE_4.24/Engine/Content/Sequencer/Editor: 'A:/UE_4.22.3/UE_4.24/Engine/Content/Sequencer/Editor' is outside repository
+[2020.03.18-02.20.34:608][779]SourceControl: fatal: A:/UE_4.22.3/UE_4.24/Engine/Content/Sequencer/Editor: 'A:/UE_4.22.3/UE_4.24/Engine/Content/Sequencer/Editor' is outside repository
+[2020.03.18-02.20.52:314][897]SourceControl: fatal: A:/UE_4.22.3/UE_4.24/Engine/Content/Sequencer/Editor: 'A:/UE_4.22.3/UE_4.24/Engine/Content/Sequencer/Editor' is outside repository
+[2020.03.18-02.21.03:205][194]SourceControl: fatal: A:/UE_4.22.3/UE_4.24/Engine/Content/Sequencer/Editor: 'A:/UE_4.22.3/UE_4.24/Engine/Content/Sequencer/Editor' is outside repository
+[2020.03.18-02.22.42:721][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.03.18-02.23.37:964][513]Cmd: TRANSACTION UNDO
+[2020.03.18-02.23.37:964][513]LogEditorTransaction: Undo Move Keys or Sections
+[2020.03.18-02.23.38:471][537]Cmd: TRANSACTION UNDO
+[2020.03.18-02.23.38:471][537]LogEditorTransaction: Undo Set Bool Key Value
+[2020.03.18-02.23.39:554][665]Cmd: TRANSACTION UNDO
+[2020.03.18-02.23.39:554][665]LogEditorTransaction: Undo Set Bool Key Value
+[2020.03.18-02.24.09:542][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Solitary/Maps/Solitary" FILE="C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Content/Solitary/Maps/Solitary.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.18-02.24.09:572][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.03.18-02.24.09:617][158]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Solitary4DF720DC4CADF9980C7F84A7848CDB48.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Content/Solitary/Maps/Solitary.umap'
+[2020.03.18-02.24.09:653][158]AssetCheck: New page: Asset Save: Solitary
+[2020.03.18-02.24.09:653][158]LogContentValidation: Display: Validating World /Game/Solitary/Maps/Solitary.Solitary
+[2020.03.18-02.24.10:532][251]LogSlate: Window 'Sequencer' being destroyed
+[2020.03.18-02.24.10:534][251]LogSlate: Window 'Sequencer' being destroyed
+[2020.03.18-02.24.13:180][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.03.18-02.24.13:248][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/testsequence" FILE="C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Content/testsequence.uasset" SILENT=true
+[2020.03.18-02.24.13:273][550]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/testsequence5480E8DC4831C857F82830BE73FD2693.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Content/testsequence.uasset'
+[2020.03.18-02.24.13:284][550]AssetCheck: New page: Asset Save: testsequence
+[2020.03.18-02.24.13:284][550]LogContentValidation: Display: Validating LevelSequence /Game/testsequence.testsequence
+[2020.03.18-02.24.14:505][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.03.18-02.24.14:565][690]LogSlate: Window 'AdvancedVRFrameworkV22 - Unreal Editor' being destroyed
+[2020.03.18-02.24.14:566][690]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.18-02.24.14:686][691]Cmd: QUIT_EDITOR
+[2020.03.18-02.24.14:686][691]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.03.18-02.24.14:696][691]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.03.18-02.24.14:698][691]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.18-02.24.14:733][691]LogExit: Preparing to exit.
+[2020.03.18-02.24.15:277][691]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.03.18-02.24.15:277][691]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.18-02.24.15:277][691]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.03.18-02.24.15:277][691]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.03.18-02.24.15:277][691]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.03.18-02.24.15:277][691]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.03.18-02.24.15:277][691]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.03.18-02.24.15:277][691]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.03.18-02.24.15:345][691]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.03.18-02.24.15:381][691]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.18-02.24.15:382][691]LogExit: Editor shut down
+[2020.03.18-02.24.15:383][691]LogExit: Transaction tracking system shut down
+[2020.03.18-02.24.15:750][691]LogExit: Object subsystem successfully closed.
+[2020.03.18-02.24.15:785][691]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.03.18-02.24.15:824][691]LogModuleManager: Shutting down and abandoning module SequencerWidgets (714)
+[2020.03.18-02.24.15:825][691]LogModuleManager: Shutting down and abandoning module PinnedCommandList (712)
+[2020.03.18-02.24.15:825][691]LogModuleManager: Shutting down and abandoning module SkeletonEditor (710)
+[2020.03.18-02.24.15:825][691]LogModuleManager: Shutting down and abandoning module AnimationEditor (708)
+[2020.03.18-02.24.15:825][691]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (706)
+[2020.03.18-02.24.15:825][691]LogModuleManager: Shutting down and abandoning module SceneOutliner (702)
+[2020.03.18-02.24.15:825][691]LogModuleManager: Shutting down and abandoning module AddContentDialog (700)
+[2020.03.18-02.24.15:827][691]LogModuleManager: Shutting down and abandoning module WidgetCarousel (699)
+[2020.03.18-02.24.15:827][691]LogModuleManager: Shutting down and abandoning module EditorWidgets (696)
+[2020.03.18-02.24.15:828][691]LogModuleManager: Shutting down and abandoning module CollectionManager (694)
+[2020.03.18-02.24.15:828][691]LogModuleManager: Shutting down and abandoning module StatsViewer (692)
+[2020.03.18-02.24.15:829][691]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (690)
+[2020.03.18-02.24.15:829][691]LogModuleManager: Shutting down and abandoning module FoliageEdit (688)
+[2020.03.18-02.24.15:829][691]LogModuleManager: Shutting down and abandoning module LandscapeEditor (686)
+[2020.03.18-02.24.15:830][691]LogModuleManager: Shutting down and abandoning module MeshPaintMode (684)
+[2020.03.18-02.24.15:830][691]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (682)
+[2020.03.18-02.24.15:830][691]LogModuleManager: Shutting down and abandoning module ActorPickerMode (680)
+[2020.03.18-02.24.15:830][691]LogModuleManager: Shutting down and abandoning module GeometryMode (678)
+[2020.03.18-02.24.15:830][691]LogModuleManager: Shutting down and abandoning module TextureAlignMode (676)
+[2020.03.18-02.24.15:830][691]LogModuleManager: Shutting down and abandoning module BspMode (674)
+[2020.03.18-02.24.15:831][691]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (672)
+[2020.03.18-02.24.15:831][691]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (670)
+[2020.03.18-02.24.15:831][691]LogModuleManager: Shutting down and abandoning module AutomationWorker (668)
+[2020.03.18-02.24.15:831][691]LogModuleManager: Shutting down and abandoning module SteamVREditor (666)
+[2020.03.18-02.24.15:832][691]LogModuleManager: Shutting down and abandoning module OculusMR (664)
+[2020.03.18-02.24.15:832][691]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (662)
+[2020.03.18-02.24.15:832][691]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (660)
+[2020.03.18-02.24.15:832][691]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (658)
+[2020.03.18-02.24.15:832][691]LogModuleManager: Shutting down and abandoning module PlacementMode (657)
+[2020.03.18-02.24.15:832][691]LogModuleManager: Shutting down and abandoning module MaterialEditor (656)
+[2020.03.18-02.24.15:833][691]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (652)
+[2020.03.18-02.24.15:834][691]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (650)
+[2020.03.18-02.24.15:834][691]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (648)
+[2020.03.18-02.24.15:834][691]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (646)
+[2020.03.18-02.24.15:834][691]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (644)
+[2020.03.18-02.24.15:834][691]LogModuleManager: Shutting down and abandoning module WebMMedia (642)
+[2020.03.18-02.24.15:834][691]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (640)
+[2020.03.18-02.24.15:835][691]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (638)
+[2020.03.18-02.24.15:835][691]LogModuleManager: Shutting down and abandoning module SequenceRecorder (637)
+[2020.03.18-02.24.15:835][691]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (634)
+[2020.03.18-02.24.15:835][691]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (632)
+[2020.03.18-02.24.15:835][691]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (630)
+[2020.03.18-02.24.15:835][691]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (628)
+[2020.03.18-02.24.15:835][691]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (626)
+[2020.03.18-02.24.15:835][691]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (624)
+[2020.03.18-02.24.15:835][691]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (622)
+[2020.03.18-02.24.15:835][691]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (620)
+[2020.03.18-02.24.15:835][691]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (618)
+[2020.03.18-02.24.15:835][691]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (616)
+[2020.03.18-02.24.15:835][691]LogModuleManager: Shutting down and abandoning module CharacterAI (614)
+[2020.03.18-02.24.15:835][691]LogModuleManager: Shutting down and abandoning module SmartSnapping (612)
+[2020.03.18-02.24.15:835][691]LogModuleManager: Shutting down and abandoning module SessionServices (610)
+[2020.03.18-02.24.15:835][691]LogModuleManager: Shutting down and abandoning module MeshPaint (608)
+[2020.03.18-02.24.15:836][691]LogModuleManager: Shutting down and abandoning module ViewportSnapping (606)
+[2020.03.18-02.24.15:836][691]LogModuleManager: Shutting down and abandoning module ViewportInteraction (604)
+[2020.03.18-02.24.15:836][691]LogModuleManager: Shutting down and abandoning module ClothPainter (602)
+[2020.03.18-02.24.15:837][691]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (601)
+[2020.03.18-02.24.15:837][691]LogModuleManager: Shutting down and abandoning module LogVisualizer (598)
+[2020.03.18-02.24.15:838][691]LogModuleManager: Shutting down and abandoning module IntroTutorials (596)
+[2020.03.18-02.24.15:838][691]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (595)
+[2020.03.18-02.24.15:839][691]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (592)
+[2020.03.18-02.24.15:839][691]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (590)
+[2020.03.18-02.24.15:839][691]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (588)
+[2020.03.18-02.24.15:839][691]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (587)
+[2020.03.18-02.24.16:670][691]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (584)
+[2020.03.18-02.24.16:670][691]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (582)
+[2020.03.18-02.24.16:670][691]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (580)
+[2020.03.18-02.24.16:670][691]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (578)
+[2020.03.18-02.24.16:670][691]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (576)
+[2020.03.18-02.24.16:670][691]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (574)
+[2020.03.18-02.24.16:670][691]LogModuleManager: Shutting down and abandoning module InputBindingEditor (572)
+[2020.03.18-02.24.16:672][691]LogModuleManager: Shutting down and abandoning module MergeActors (570)
+[2020.03.18-02.24.16:673][691]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (568)
+[2020.03.18-02.24.16:673][691]LogModuleManager: Shutting down and abandoning module LocalizationService (567)
+[2020.03.18-02.24.16:674][691]LogModuleManager: Shutting down and abandoning module HardwareTargeting (564)
+[2020.03.18-02.24.16:674][691]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (562)
+[2020.03.18-02.24.16:674][691]LogModuleManager: Shutting down and abandoning module UndoHistory (560)
+[2020.03.18-02.24.16:674][691]LogModuleManager: Shutting down and abandoning module XmlParser (558)
+[2020.03.18-02.24.16:674][691]LogModuleManager: Shutting down and abandoning module Blutility (556)
+[2020.03.18-02.24.16:674][691]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (554)
+[2020.03.18-02.24.16:674][691]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (553)
+[2020.03.18-02.24.16:674][691]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (550)
+[2020.03.18-02.24.16:674][691]LogModuleManager: Shutting down and abandoning module SettingsEditor (548)
+[2020.03.18-02.24.16:675][691]LogModuleManager: Shutting down and abandoning module ProjectLauncher (546)
+[2020.03.18-02.24.16:675][691]LogModuleManager: Shutting down and abandoning module SessionFrontend (544)
+[2020.03.18-02.24.16:675][691]LogModuleManager: Shutting down and abandoning module ProfilerClient (542)
+[2020.03.18-02.24.16:676][691]LogModuleManager: Shutting down and abandoning module DeviceManager (540)
+[2020.03.18-02.24.16:676][691]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (539)
+[2020.03.18-02.24.16:709][691]LogModuleManager: Shutting down and abandoning module AutomationController (536)
+[2020.03.18-02.24.16:709][691]LogModuleManager: Shutting down and abandoning module AutomationWindow (534)
+[2020.03.18-02.24.16:709][691]LogModuleManager: Shutting down and abandoning module Layers (532)
+[2020.03.18-02.24.16:710][691]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (530)
+[2020.03.18-02.24.16:710][691]LogModuleManager: Shutting down and abandoning module DetailCustomizations (528)
+[2020.03.18-02.24.16:710][691]LogModuleManager: Shutting down and abandoning module PackagesDialog (526)
+[2020.03.18-02.24.16:711][691]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (524)
+[2020.03.18-02.24.16:712][691]LogModuleManager: Shutting down and abandoning module Persona (522)
+[2020.03.18-02.24.16:712][691]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (521)
+[2020.03.18-02.24.16:712][691]LogModuleManager: Shutting down and abandoning module AnimGraph (519)
+[2020.03.18-02.24.16:712][691]LogModuleManager: Shutting down and abandoning module Kismet (516)
+[2020.03.18-02.24.16:719][691]LogModuleManager: Shutting down and abandoning module KismetWidgets (515)
+[2020.03.18-02.24.16:719][691]LogModuleManager: Shutting down and abandoning module GraphEditor (512)
+[2020.03.18-02.24.16:721][691]LogModuleManager: Shutting down and abandoning module StructViewer (510)
+[2020.03.18-02.24.16:721][691]LogModuleManager: Shutting down and abandoning module ClassViewer (508)
+[2020.03.18-02.24.16:721][691]LogModuleManager: Shutting down and abandoning module Toolbox (506)
+[2020.03.18-02.24.16:721][691]LogModuleManager: Shutting down and abandoning module ModuleUI (504)
+[2020.03.18-02.24.16:721][691]LogModuleManager: Shutting down and abandoning module OutputLog (502)
+[2020.03.18-02.24.16:723][691]LogModuleManager: Shutting down and abandoning module GammaUI (500)
+[2020.03.18-02.24.16:723][691]LogModuleManager: Shutting down and abandoning module Documentation (498)
+[2020.03.18-02.24.16:723][691]LogModuleManager: Shutting down and abandoning module ToolMenus (496)
+[2020.03.18-02.24.16:723][691]LogModuleManager: Shutting down and abandoning module LiveCoding (494)
+[2020.03.18-02.24.16:724][691]LogModuleManager: Shutting down and abandoning module LevelSequence (492)
+[2020.03.18-02.24.16:724][691]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (490)
+[2020.03.18-02.24.16:724][691]LogModuleManager: Shutting down and abandoning module MovieScene (488)
+[2020.03.18-02.24.16:724][691]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (486)
+[2020.03.18-02.24.16:724][691]LogModuleManager: Shutting down and abandoning module LauncherPlatform (484)
+[2020.03.18-02.24.16:724][691]LogModuleManager: Shutting down and abandoning module AnalyticsET (482)
+[2020.03.18-02.24.16:724][691]LogModuleManager: Shutting down and abandoning module PortalServices (480)
+[2020.03.18-02.24.16:724][691]LogModuleManager: Shutting down and abandoning module PortalRpc (478)
+[2020.03.18-02.24.16:724][691]LogModuleManager: Shutting down and abandoning module MessagingRpc (476)
+[2020.03.18-02.24.16:724][691]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (474)
+[2020.03.18-02.24.16:724][691]LogModuleManager: Shutting down and abandoning module AIModule (472)
+[2020.03.18-02.24.16:724][691]LogModuleManager: Shutting down and abandoning module GameplayDebugger (471)
+[2020.03.18-02.24.16:724][691]LogModuleManager: Shutting down and abandoning module AITestSuite (469)
+[2020.03.18-02.24.16:724][691]LogModuleManager: Shutting down and abandoning module NavigationSystem (467)
+[2020.03.18-02.24.16:724][691]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (464)
+[2020.03.18-02.24.16:728][691]LogModuleManager: Shutting down and abandoning module ProfilerService (462)
+[2020.03.18-02.24.16:930][691]LogModuleManager: Shutting down and abandoning module TaskGraph (460)
+[2020.03.18-02.24.16:933][691]LogModuleManager: Shutting down and abandoning module ScreenshotTools (458)
+[2020.03.18-02.24.16:933][691]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (456)
+[2020.03.18-02.24.16:933][691]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (454)
+[2020.03.18-02.24.16:933][691]LogModuleManager: Shutting down and abandoning module OculusEditor (452)
+[2020.03.18-02.24.16:933][691]LogModuleManager: Shutting down and abandoning module OculusInput (450)
+[2020.03.18-02.24.16:933][691]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (448)
+[2020.03.18-02.24.16:933][691]LogModuleManager: Shutting down and abandoning module EditableMesh (446)
+[2020.03.18-02.24.16:933][691]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (444)
+[2020.03.18-02.24.16:933][691]LogModuleManager: Shutting down and abandoning module CableComponent (442)
+[2020.03.18-02.24.16:933][691]LogModuleManager: Shutting down and abandoning module AudioCapture (440)
+[2020.03.18-02.24.16:933][691]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (439)
+[2020.03.18-02.24.16:933][691]LogModuleManager: Shutting down and abandoning module AssetTags (436)
+[2020.03.18-02.24.16:933][691]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (434)
+[2020.03.18-02.24.16:933][691]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (432)
+[2020.03.18-02.24.16:933][691]LogModuleManager: Shutting down and abandoning module AppleImageUtils (430)
+[2020.03.18-02.24.16:933][691]LogModuleManager: Shutting down and abandoning module AndroidPermission (428)
+[2020.03.18-02.24.16:933][691]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (426)
+[2020.03.18-02.24.16:933][691]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (424)
+[2020.03.18-02.24.16:934][691]LogModuleManager: Shutting down and abandoning module MediaCompositing (422)
+[2020.03.18-02.24.16:934][691]LogModuleManager: Shutting down and abandoning module ImgMedia (420)
+[2020.03.18-02.24.16:934][691]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (418)
+[2020.03.18-02.24.16:934][691]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (416)
+[2020.03.18-02.24.16:934][691]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (414)
+[2020.03.18-02.24.16:934][691]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (412)
+[2020.03.18-02.24.16:934][691]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (410)
+[2020.03.18-02.24.16:934][691]LogModuleManager: Shutting down and abandoning module BackChannel (408)
+[2020.03.18-02.24.16:934][691]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (406)
+[2020.03.18-02.24.16:934][691]LogModuleManager: Shutting down and abandoning module AutomationUtils (404)
+[2020.03.18-02.24.16:934][691]LogModuleManager: Shutting down and abandoning module AlembicImporter (402)
+[2020.03.18-02.24.16:935][691]LogModuleManager: Shutting down and abandoning module AlembicLibrary (401)
+[2020.03.18-02.24.16:935][691]LogModuleManager: Shutting down and abandoning module GeometryCache (400)
+[2020.03.18-02.24.16:935][691]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (399)
+[2020.03.18-02.24.16:935][691]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (394)
+[2020.03.18-02.24.16:935][691]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (392)
+[2020.03.18-02.24.16:935][691]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (390)
+[2020.03.18-02.24.16:935][691]LogModuleManager: Shutting down and abandoning module PluginBrowser (388)
+[2020.03.18-02.24.16:937][691]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (386)
+[2020.03.18-02.24.16:937][691]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (384)
+[2020.03.18-02.24.16:937][691]LogModuleManager: Shutting down and abandoning module CurveEditorTools (382)
+[2020.03.18-02.24.16:937][691]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (380)
+[2020.03.18-02.24.16:937][691]LogModuleManager: Shutting down and abandoning module CryptoKeys (378)
+[2020.03.18-02.24.16:937][691]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (376)
+[2020.03.18-02.24.16:938][691]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (374)
+[2020.03.18-02.24.16:938][691]LogModuleManager: Shutting down and abandoning module UObjectPlugin (372)
+[2020.03.18-02.24.16:938][691]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (370)
+[2020.03.18-02.24.16:938][691]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (368)
+[2020.03.18-02.24.16:939][691]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (366)
+[2020.03.18-02.24.16:940][691]LogModuleManager: Shutting down and abandoning module GitSourceControl (364)
+[2020.03.18-02.24.16:940][691]LogModuleManager: Shutting down and abandoning module SourceControl (363)
+[2020.03.18-02.24.16:940][691]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (360)
+[2020.03.18-02.24.16:941][691]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (358)
+[2020.03.18-02.24.16:941][691]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (356)
+[2020.03.18-02.24.16:941][691]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (354)
+[2020.03.18-02.24.16:941][691]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (352)
+[2020.03.18-02.24.16:941][691]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (350)
+[2020.03.18-02.24.16:941][691]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (348)
+[2020.03.18-02.24.16:941][691]LogModuleManager: Shutting down and abandoning module Paper2DEditor (346)
+[2020.03.18-02.24.16:942][691]LogModuleManager: Shutting down and abandoning module WebBrowserWidget (344)
+[2020.03.18-02.24.16:942][691]LogModuleManager: Shutting down and abandoning module WebBrowser (343)
+[2020.03.18-02.24.16:987][691]LogModuleManager: Shutting down and abandoning module SignificanceManager (340)
+[2020.03.18-02.24.16:987][691]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (338)
+[2020.03.18-02.24.16:987][691]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (336)
+[2020.03.18-02.24.16:987][691]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (332)
+[2020.03.18-02.24.16:987][691]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (330)
+[2020.03.18-02.24.16:988][691]LogModuleManager: Shutting down and abandoning module ApexDestruction (328)
+[2020.03.18-02.24.16:988][691]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.03.18-02.24.16:988][691]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2020.03.18-02.24.17:089][691]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2020.03.18-02.24.17:192][691]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2020.03.18-02.24.17:192][691]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2020.03.18-02.24.17:193][691]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.03.18-02.24.17:193][691]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2020.03.18-02.24.17:193][691]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2020.03.18-02.24.17:193][691]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2020.03.18-02.24.17:193][691]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2020.03.18-02.24.17:193][691]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.03.18-02.24.17:193][691]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2020.03.18-02.24.17:193][691]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2020.03.18-02.24.17:193][691]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.03.18-02.24.17:194][691]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2020.03.18-02.24.17:194][691]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2020.03.18-02.24.17:194][691]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2020.03.18-02.24.17:194][691]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2020.03.18-02.24.17:194][691]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2020.03.18-02.24.17:194][691]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2020.03.18-02.24.17:194][691]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2020.03.18-02.24.17:194][691]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2020.03.18-02.24.17:195][691]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2020.03.18-02.24.17:196][691]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2020.03.18-02.24.17:196][691]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2020.03.18-02.24.17:196][691]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.03.18-02.24.17:197][691]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.03.18-02.24.17:197][691]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2020.03.18-02.24.17:199][691]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2020.03.18-02.24.17:199][691]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.03.18-02.24.17:199][691]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.03.18-02.24.17:199][691]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.03.18-02.24.17:199][691]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.03.18-02.24.17:202][691]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.03.18-02.24.17:202][691]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.03.18-02.24.17:202][691]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.03.18-02.24.17:202][691]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.03.18-02.24.17:202][691]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.03.18-02.24.17:203][691]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.03.18-02.24.17:203][691]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.03.18-02.24.17:203][691]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.03.18-02.24.17:203][691]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.03.18-02.24.17:203][691]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.03.18-02.24.17:203][691]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.03.18-02.24.17:204][691]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.03.18-02.24.17:204][691]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.03.18-02.24.17:204][691]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.03.18-02.24.17:205][691]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.03.18-02.24.17:205][691]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.03.18-02.24.17:205][691]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.03.18-02.24.17:205][691]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.03.18-02.24.17:205][691]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.03.18-02.24.17:207][691]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.03.18-02.24.17:207][691]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.03.18-02.24.17:207][691]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.03.18-02.24.17:207][691]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.03.18-02.24.17:207][691]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.03.18-02.24.17:207][691]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.03.18-02.24.17:207][691]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.03.18-02.24.17:207][691]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.03.18-02.24.17:207][691]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.03.18-02.24.17:207][691]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.03.18-02.24.17:208][691]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.03.18-02.24.17:208][691]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.03.18-02.24.17:208][691]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.03.18-02.24.17:208][691]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.03.18-02.24.17:209][691]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.03.18-02.24.17:209][691]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.03.18-02.24.17:209][691]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.03.18-02.24.17:210][691]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.03.18-02.24.17:210][691]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.03.18-02.24.17:210][691]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.03.18-02.24.17:210][691]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.03.18-02.24.17:211][691]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.03.18-02.24.17:211][691]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.03.18-02.24.17:212][691]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.03.18-02.24.17:212][691]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.03.18-02.24.17:212][691]LogDerivedDataCache: Shutdown
+[2020.03.18-02.24.17:212][691]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.03.18-02.24.17:212][691]LogXGEController: Cleaning working directory: C:/Users/Ultimate i5/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.03.18-02.24.17:212][691]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.03.18-02.24.17:212][691]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.03.18-02.24.17:212][691]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.03.18-02.24.17:212][691]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.03.18-02.24.17:213][691]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.03.18-02.24.17:213][691]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.03.18-02.24.17:213][691]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.03.18-02.24.17:213][691]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.03.18-02.24.17:213][691]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.03.18-02.24.17:213][691]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.03.18-02.24.17:213][691]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.03.18-02.24.17:213][691]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.03.18-02.24.17:213][691]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.03.18-02.24.17:214][691]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.03.18-02.24.17:214][691]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.03.18-02.24.17:214][691]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.03.18-02.24.17:214][691]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.03.18-02.24.17:214][691]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.03.18-02.24.17:214][691]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.03.18-02.24.17:214][691]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.03.18-02.24.17:214][691]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.03.18-02.24.17:223][691]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.03.18-02.24.17:227][691]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.03.18-02.24.17:227][691]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.03.18-02.24.17:227][691]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.03.18-02.24.17:227][691]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.03.18-02.24.17:227][691]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.03.18-02.24.17:227][691]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.03.18-02.24.17:227][691]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.03.18-02.24.17:227][691]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.03.18-02.24.17:230][691]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.03.18-02.24.17:252][691]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.03.18-02.24.17:252][691]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.03.18-02.24.17:252][691]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.03.18-02.24.17:252][691]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.03.18-02.24.17:253][691]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.03.18-02.24.17:253][691]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.03.18-02.24.17:253][691]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.03.18-02.24.17:253][691]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.03.18-02.24.17:253][691]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.03.18-02.24.17:253][691]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.03.18-02.24.17:254][691]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.03.18-02.24.17:254][691]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.03.18-02.24.17:254][691]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.03.18-02.24.17:254][691]LogHMD: Freeing OpenVRDLLHandle.
+[2020.03.18-02.24.17:254][691]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.03.18-02.24.17:254][691]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.03.18-02.24.17:254][691]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.03.18-02.24.17:254][691]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.03.18-02.24.17:254][691]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.03.18-02.24.17:256][691]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.03.18-02.24.17:257][691]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.03.18-02.24.17:293][691]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.03.18-02.24.17:293][691]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.03.18-02.24.17:293][691]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6EAF3CF0-4D07-94D2-1264-71B0E41CA115%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=89da22424c7c65a6725b928ae637f89d%7Cc5272c98836d4eddb76bcede0d291b68%7Ccfccf20b-dc38-43ba-8ee0-92b500786aea&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.03.18-02.24.17:302][691]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.03.18-02.24.17:304][691]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.03.18-02.24.17:305][691]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.03.18-02.24.17:306][691]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.03.18-02.24.17:306][691]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.03.18-02.24.17:306][691]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.03.18-02.24.17:306][691]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.03.18-02.24.17:306][691]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.03.18-02.24.17:306][691]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.03.18-02.24.17:306][691]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.03.18-02.24.17:306][691]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.03.18-02.24.17:306][691]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.03.18-02.24.17:307][691]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.03.18-02.24.17:310][691]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.03.18-02.24.17:310][691]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.03.18-02.24.17:310][691]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.03.18-02.24.17:310][691]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.03.18-02.24.17:310][691]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.03.18-02.24.17:312][691]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.03.18-02.24.17:312][691]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.03.18-02.24.17:312][691]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.03.18-02.24.17:312][691]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.03.18-02.24.17:312][691]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.03.18-02.24.17:312][691]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.03.18-02.24.17:312][691]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.03.18-02.24.17:313][691]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.03.18-02.24.17:313][691]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.03.18-02.24.17:313][691]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.03.18-02.24.17:313][691]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.03.18-02.24.17:313][691]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.03.18-02.24.17:318][691]LogD3D11RHI: Shutdown
+[2020.03.18-02.24.17:318][691]LogD3D11RHI: CleanupD3DDevice
+[2020.03.18-02.24.17:336][691]LogExit: Exiting.
+[2020.03.18-02.24.17:359][691]Log file closed, 03/17/20 19:24:17
