@@ -7636,3 +7636,97 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.15-18.43.43:902][587]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Solitary_Auto1FF5096244FC47954316B1780452F1C49.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Maps/Solitary_Auto1.umap'
 [2020.04.15-18.43.43:906][587]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Solitary/Maps/Solitary' took 0.410
 [2020.04.15-18.43.43:906][587]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.410
+[2020.04.15-19.01.35:676][621]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Ultimate i5/Desktop/Toilet_low.fbx)
+[2020.04.15-19.01.35:701][621]LogFbx: Loading FBX Scene from C:/Users/Ultimate i5/Desktop/Toilet_low.fbx
+[2020.04.15-19.01.35:712][621]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.15-19.01.37:015][621]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.15-19.01.37:353][621]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.04.15-19.01.37:375][621]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 15
+[2020.04.15-19.01.37:375][621]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2020.04.15-19.01.37:375][621]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2020.04.15-19.01.37:375][621]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2020.04.15-19.01.37:375][621]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2020.04.15-19.01.37:375][621]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2020.04.15-19.01.37:375][621]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.04.15-19.01.37:375][621]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2020.04.15-19.01.37:375][621]LogFbx: Display: Triangulating static mesh base_low
+[2020.04.15-19.01.37:422][621]LogStaticMesh: Building static mesh Toilet_low_base_low...
+[2020.04.15-19.01.37:433][621]LogStaticMesh: Built static mesh [0.01s] /Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_base_low.Toilet_low_base_low
+[2020.04.15-19.01.37:452][621]LogFbx: Display: Triangulating static mesh bowl_low
+[2020.04.15-19.01.37:501][621]LogStaticMesh: Building static mesh Toilet_low_bowl_low...
+[2020.04.15-19.01.37:518][621]LogStaticMesh: Built static mesh [0.02s] /Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_bowl_low.Toilet_low_bowl_low
+[2020.04.15-19.01.37:534][621]LogFbx: Display: Triangulating static mesh button_base_r_low
+[2020.04.15-19.01.37:546][621]LogStaticMesh: Building static mesh Toilet_low_button_base_r_low...
+[2020.04.15-19.01.37:552][621]LogStaticMesh: Built static mesh [0.01s] /Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_button_base_r_low.Toilet_low_button_base_r_low
+[2020.04.15-19.01.37:570][621]LogFbx: Display: Triangulating static mesh button_r_low
+[2020.04.15-19.01.37:575][621]LogStaticMesh: Building static mesh Toilet_low_button_r_low...
+[2020.04.15-19.01.37:579][621]LogStaticMesh: Built static mesh [0.00s] /Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_button_r_low.Toilet_low_button_r_low
+[2020.04.15-19.01.37:597][621]LogFbx: Display: Triangulating static mesh button_base_l_low
+[2020.04.15-19.01.37:609][621]LogStaticMesh: Building static mesh Toilet_low_button_base_l_low...
+[2020.04.15-19.01.37:614][621]LogStaticMesh: Built static mesh [0.01s] /Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_button_base_l_low.Toilet_low_button_base_l_low
+[2020.04.15-19.01.37:636][621]LogFbx: Display: Triangulating static mesh button_l_low
+[2020.04.15-19.01.37:641][621]LogStaticMesh: Building static mesh Toilet_low_button_l_low...
+[2020.04.15-19.01.37:645][621]LogStaticMesh: Built static mesh [0.00s] /Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_button_l_low.Toilet_low_button_l_low
+[2020.04.15-19.01.37:669][621]LogFbx: Display: Triangulating static mesh spout_low
+[2020.04.15-19.01.37:681][621]LogStaticMesh: Building static mesh Toilet_low_spout_low...
+[2020.04.15-19.01.37:687][621]LogStaticMesh: Built static mesh [0.01s] /Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_spout_low.Toilet_low_spout_low
+[2020.04.15-19.01.37:746][621]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.15-19.01.41:328][925]LogSlate: Window 'Message Log' being destroyed
+[2020.04.15-19.01.41:340][925]LogSlate: Window 'Message Log' being destroyed
+[2020.04.15-19.01.41:553][928]LogUObjectHash: Compacting FUObjectHashTables data took   6.37ms
+[2020.04.15-19.01.41:555][928]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Solitary/Maps/Solitary' took 0.139
+[2020.04.15-19.01.41:556][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_spout_low] ([1] browsable assets)...
+[2020.04.15-19.01.41:564][928]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_spout_low.Toilet_low_spout_low]
+[2020.04.15-19.01.41:564][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_spout_low]
+[2020.04.15-19.01.41:579][928]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Toilet_low_spout_low_Auto2C5EC5B084FB1A21916DC66B7FA736A6A.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_spout_low_Auto2.uasset'
+[2020.04.15-19.01.41:580][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_base_low] ([1] browsable assets)...
+[2020.04.15-19.01.41:588][928]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_base_low.Toilet_low_base_low]
+[2020.04.15-19.01.41:588][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_base_low]
+[2020.04.15-19.01.41:603][928]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Toilet_low_base_low_Auto21BABEAA8486082A8843929A4391EACE0.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_base_low_Auto2.uasset'
+[2020.04.15-19.01.41:604][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Solitary/Meshes/Final_Meshes/Toilet/lambert1] ([1] browsable assets)...
+[2020.04.15-19.01.41:612][928]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Solitary/Meshes/Final_Meshes/Toilet/lambert1.lambert1]
+[2020.04.15-19.01.41:612][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Solitary/Meshes/Final_Meshes/Toilet/lambert1]
+[2020.04.15-19.01.41:624][928]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/lambert1_Auto24EF56E5144A3AADCE9CCE7B41608CCCC.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Meshes/Final_Meshes/Toilet/lambert1_Auto2.uasset'
+[2020.04.15-19.01.41:626][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_bowl_low] ([1] browsable assets)...
+[2020.04.15-19.01.41:633][928]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_bowl_low.Toilet_low_bowl_low]
+[2020.04.15-19.01.41:633][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_bowl_low]
+[2020.04.15-19.01.41:648][928]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Toilet_low_bowl_low_Auto2227C541344A05FACEAF830B02FC0BEA3.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_bowl_low_Auto2.uasset'
+[2020.04.15-19.01.41:649][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_button_base_r_low] ([1] browsable assets)...
+[2020.04.15-19.01.41:657][928]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_button_base_r_low.Toilet_low_button_base_r_low]
+[2020.04.15-19.01.41:657][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_button_base_r_low]
+[2020.04.15-19.01.41:670][928]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Toilet_low_button_base_r_low_Aut52D6F067428496F6D8D4279DD4C6D2C7.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_button_base_r_low_Auto2.uasset'
+[2020.04.15-19.01.41:671][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_button_r_low] ([1] browsable assets)...
+[2020.04.15-19.01.41:678][928]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_button_r_low.Toilet_low_button_r_low]
+[2020.04.15-19.01.41:678][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_button_r_low]
+[2020.04.15-19.01.41:690][928]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Toilet_low_button_r_low_Auto298CA8CBC43AE1F0AFA6611A38178414F.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_button_r_low_Auto2.uasset'
+[2020.04.15-19.01.41:691][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_button_base_l_low] ([1] browsable assets)...
+[2020.04.15-19.01.41:698][928]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_button_base_l_low.Toilet_low_button_base_l_low]
+[2020.04.15-19.01.41:698][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_button_base_l_low]
+[2020.04.15-19.01.41:711][928]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Toilet_low_button_base_l_low_Aut652DAD6749CAAB66D2F4C2ACFFD4370F.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_button_base_l_low_Auto2.uasset'
+[2020.04.15-19.01.41:712][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_button_l_low] ([1] browsable assets)...
+[2020.04.15-19.01.41:720][928]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_button_l_low.Toilet_low_button_l_low]
+[2020.04.15-19.01.41:720][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_button_l_low]
+[2020.04.15-19.01.41:732][928]LogSavePackage: Moving 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Toilet_low_button_l_low_Auto2EF2756E54C5086E1CD6E2B8F974E6649.tmp' to 'C:/Users/Ultimate i5/Documents/GitHub/The-Hole/The_Hole/Saved/Autosaves/Game/Solitary/Meshes/Final_Meshes/Toilet/Toilet_low_button_l_low_Auto2.uasset'
+[2020.04.15-19.01.41:732][928]LogFileHelpers: Auto-saving content packages took 0.177
+[2020.04.15-19.01.42:986][999]LogActorFactory: Actor Factory created Toilet_low_base_low
+[2020.04.15-19.01.42:986][999]LogActorFactory: Actor Factory created Toilet_low_bowl_low
+[2020.04.15-19.01.42:987][999]LogActorFactory: Actor Factory created Toilet_low_button_base_l_low
+[2020.04.15-19.01.42:987][999]LogActorFactory: Actor Factory created Toilet_low_button_base_r_low
+[2020.04.15-19.01.42:987][999]LogActorFactory: Actor Factory created Toilet_low_button_l_low
+[2020.04.15-19.01.42:988][999]LogActorFactory: Actor Factory created Toilet_low_button_r_low
+[2020.04.15-19.01.42:988][999]LogActorFactory: Actor Factory created Toilet_low_spout_low
+[2020.04.15-19.01.44:001][ 88]LogActorFactory: Actor Factory created Toilet_low_base_low
+[2020.04.15-19.01.44:013][ 88]LogActorFactory: Actor Factory created Toilet_low_bowl_low
+[2020.04.15-19.01.44:025][ 88]LogActorFactory: Actor Factory created Toilet_low_button_base_l_low
+[2020.04.15-19.01.44:037][ 88]LogActorFactory: Actor Factory created Toilet_low_button_base_r_low
+[2020.04.15-19.01.44:049][ 88]LogActorFactory: Actor Factory created Toilet_low_button_l_low
+[2020.04.15-19.01.44:061][ 88]LogActorFactory: Actor Factory created Toilet_low_button_r_low
+[2020.04.15-19.01.44:074][ 88]LogActorFactory: Actor Factory created Toilet_low_spout_low
+[2020.04.15-19.02.00:326][856]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.04.15-19.02.00:825][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.04.15-19.02.01:180][940]LogEditorViewport: Clicking on Actor (LMB): DecalActor (DecalActor3)
+[2020.04.15-19.02.02:015][ 28]Cmd: DELETE
+[2020.04.15-19.02.02:015][ 28]Cmd: ACTOR DELETE
+[2020.04.15-19.02.02:020][ 28]LogEditorActor: Deleted Actor: DecalActor
+[2020.04.15-19.02.02:068][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2020.04.15-19.02.02:070][ 28]LogEditorActor: Deleted 1 Actors (0.055 secs)
